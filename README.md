@@ -45,13 +45,6 @@ const vicky = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Most Used Languages" />
-  
-  ### Most Used Languages
-  - TypeScript: 66.62%
-  - JavaScript: 4.35%
-  - CSS: 20.65%
-  - Vue: 1.92%
-  - HTML: 6.46%
 </div>
 
 </td>
