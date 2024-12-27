@@ -32,7 +32,7 @@ const vicky = {
     passions: ["Web Dev", "UI/UX", "Tech", "Photography"],
     techStack: {
         frontend: ["React", "Vue", "Next.js", "Tailwind"],
-        backend: ["Node", "Express", "Laravel", "Django"],
+        backend: ["Node", "Express"],
         database: ["MongoDB", "PostgreSQL", "MySQL"],
     },
     currentlyWorking: "Building awesome web experiences ✨",
