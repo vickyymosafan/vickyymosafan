@@ -83,7 +83,3 @@ const vicky = {
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F7A9FE&center=true&vCenter=true&repeat=false&width=512&lines=Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
