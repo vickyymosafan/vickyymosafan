@@ -68,25 +68,6 @@ const vicky = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vickyymosafan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vickyymosafan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="98%" />
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vickyymosafan&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="activity graph">
-</div>
-
 ## 🤝 Connect with Me
 
 <div align="center">
