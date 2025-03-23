@@ -25,7 +25,7 @@
 <tr>
 <td width="60%">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vickyymosafan&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vickyymosafan&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 
 </td>
 <td width="40%">
