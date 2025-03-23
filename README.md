@@ -15,8 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="250" style="margin-left: 10px;"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZsbWl4dzRpY294NW5oOWYzaWdpbTA5cmw4c3U0Z3o1Y2JtdmN2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="100%" />
 </div>
 
 ## 🌟 About Me
