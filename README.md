@@ -25,20 +25,7 @@
 <tr>
 <td width="60%">
 
-```typescript
-const vicky = {
-    location: "Indonesia 🌴",
-    code: ["TypeScript", "JavaScript", "Python", "PHP"],
-    passions: ["Web Dev", "UI/UX", "Tech", "Photography"],
-    techStack: {
-        frontend: ["React", "Vue", "Next.js", "Tailwind"],
-        backend: ["Node", "Express"],
-        database: ["MongoDB", "PostgreSQL", "MySQL"],
-    },
-    currentlyWorking: "Building awesome web experiences ✨",
-    lifePhilosophy: "Code, Create, Inspire 🚀"
-};
-```
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vickyymosafan&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 </td>
 <td width="40%">
