@@ -27,7 +27,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vickyymosafan&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 
 </td>
-<td width="40%">
+<td width="60%">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Most Used Languages" />
