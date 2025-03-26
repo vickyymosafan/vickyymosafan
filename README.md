@@ -21,8 +21,9 @@
 ## 🌟 About Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=algolia&show_icons=true&hide_border=true&layout=compact" alt="vickyymosafan's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=vickyymosafan&theme=transparent&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vickyymosafan&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="vickyymosafan's GitHub Stats" />
 </div>
 
 
