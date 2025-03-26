@@ -21,7 +21,7 @@
 ## 🌟 About Me
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vickyymosafan&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=vickyymosafan&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Most Used Languages" />
 </div>
 
