@@ -1,7 +1,7 @@
 # <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Vicky+Mosafan;A+Passionate+Frontend+Developer+from+Indonesia+;Welcome+to+My+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+VickyMosafan;A+Passionate+Frontend+Developer+;Welcome+to+My+Profile!" alt="Typing SVG" />
 </div>
 
 <!-- Animated Divider -->
