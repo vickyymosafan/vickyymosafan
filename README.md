@@ -21,7 +21,7 @@
 ## 🌟 About Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=radical&show_icons=true&hide_border=true&layout=compact" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=radical&show_icons=true&hide_border=true&layout=compact" width="40%" />
   <img src="https://streak-stats.demolab.com?user=vickyymosafan&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
