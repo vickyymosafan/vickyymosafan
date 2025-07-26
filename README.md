@@ -16,360 +16,188 @@
   </p>
 </div>
 
-<!-- About Section -->
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin-bottom: 50px;">
+## 🚀 Tentang Saya
 
-  <!-- About Card -->
-  <div style="background: white; border-radius: 15px; padding: 40px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); border: 1px solid #e1e8ed;">
-    <h2 style="color: #2c3e50; margin: 0 0 25px 0; font-size: 2em; display: flex; align-items: center;">
-      <span style="margin-right: 15px;">🚀</span> Tentang Saya
-    </h2>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-    <div style="background: #f8f9fa; border-radius: 10px; padding: 25px; margin-bottom: 25px; border-left: 4px solid #667eea;">
-      <pre style="margin: 0; font-family: 'Fira Code', monospace; font-size: 14px; line-height: 1.6; color: #2c3e50; white-space: pre-wrap;">const vicky = {
-  nama: "M. Vicky Mosafan",
-  lokasi: "Surabaya, Jawa Timur",
-  pendidikan: "Universitas Muhammadiyah Jember",
-  peran: "Fullstack Developer & UI/UX Enthusiast",
-  fokus: "End-to-end digital solutions",
-  spesialisasi: ["Web Development", "UI/UX Design", "System Architecture"],
-  passion: "Creating seamless user experiences"
-};</pre>
-    </div>
+```javascript
+const vicky = {
+    nama: "M. Vicky Mosafan",
+    lokasi: "Surabaya, Jawa Timur, Indonesia",
+    pendidikan: "Universitas Muhammadiyah Jember",
+    peran: "Frontend Developer",
+    fokus: "Membangun pengalaman web yang indah dan fungsional",
+    sedangBelajar: ["Next.js", "TypeScript", "React Native"],
+    hobi: ["Coding", "Design", "Photography"],
+    motto: "Kode yang bersih adalah kode yang bahagia! 😊"
+};
+```
 
-    <p style="color: #5a6c7d; line-height: 1.8; margin: 0; font-size: 16px;">
-      Saya adalah seorang fullstack developer yang passionate dalam menciptakan solusi digital yang tidak hanya fungsional, tetapi juga memberikan pengalaman pengguna yang luar biasa. Dengan latar belakang yang kuat dalam development dan design, saya menggabungkan technical expertise dengan creative vision.
-    </p>
-  </div>
+### 🎯 Saat Ini Fokus Pada:
+- 🔭 Mengembangkan aplikasi web modern dengan **React & Next.js**
+- 🌱 Mempelajari **TypeScript** dan **React Native**
+- 👯 Mencari kolaborasi dalam proyek **Open Source**
+- 💬 Siap membantu dengan **Frontend Development**
+- ⚡ **Fun fact**: Saya suka kopi dan coding di malam hari! ☕
 
-  <!-- Current Focus Card -->
-  <div style="background: white; border-radius: 15px; padding: 40px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); border: 1px solid #e1e8ed;">
-    <h2 style="color: #2c3e50; margin: 0 0 25px 0; font-size: 2em; display: flex; align-items: center;">
-      <span style="margin-right: 15px;">🎯</span> Current Focus
-    </h2>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-    <div style="space-y: 15px;">
-      <div style="display: flex; align-items: center; margin-bottom: 15px; padding: 15px; background: #f8f9fa; border-radius: 8px;">
-        <span style="margin-right: 15px; font-size: 1.2em;">🔭</span>
-        <span style="color: #2c3e50; font-weight: 500;">Building scalable web applications with modern tech stack</span>
-      </div>
+## 📊 Statistik GitHub
 
-      <div style="display: flex; align-items: center; margin-bottom: 15px; padding: 15px; background: #f8f9fa; border-radius: 8px;">
-        <span style="margin-right: 15px; font-size: 1.2em;">🎨</span>
-        <span style="color: #2c3e50; font-weight: 500;">Designing intuitive user interfaces and experiences</span>
-      </div>
+<div align="center">
 
-      <div style="display: flex; align-items: center; margin-bottom: 15px; padding: 15px; background: #f8f9fa; border-radius: 8px;">
-        <span style="margin-right: 15px; font-size: 1.2em;">🌱</span>
-        <span style="color: #2c3e50; font-weight: 500;">Learning cloud architecture and DevOps practices</span>
-      </div>
+<!-- GitHub Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=vickyymosafan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vickyymosafan&theme=tokyonight&hide_border=true" width="48%" />
 
-      <div style="display: flex; align-items: center; margin-bottom: 15px; padding: 15px; background: #f8f9fa; border-radius: 8px;">
-        <span style="margin-right: 15px; font-size: 1.2em;">👥</span>
-        <span style="color: #2c3e50; font-weight: 500;">Collaborating on innovative open source projects</span>
-      </div>
-    </div>
-  </div>
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" />
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vickyymosafan&theme=tokyo-night&hide_border=true&area=true" width="96%" />
 
 </div>
 
-<!-- Tech Stack Section -->
-<div style="background: white; border-radius: 15px; padding: 40px; margin-bottom: 50px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); border: 1px solid #e1e8ed;">
-  <h2 style="color: #2c3e50; margin: 0 0 40px 0; font-size: 2.5em; text-align: center; display: flex; align-items: center; justify-content: center;">
-    <span style="margin-right: 15px;">🛠️</span> Tech Stack & Expertise
-  </h2>
-
-  <!-- Tech Grid -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px;">
-
-    <!-- Frontend -->
-    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 25px; color: white;">
-      <h3 style="margin: 0 0 20px 0; font-size: 1.4em; display: flex; align-items: center;">
-        <span style="margin-right: 10px;">💻</span> Frontend Development
-      </h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">React</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Next.js</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Vue.js</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">TypeScript</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">JavaScript</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">HTML5</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">CSS3</span>
-      </div>
-    </div>
-
-    <!-- Backend -->
-    <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; padding: 25px; color: white;">
-      <h3 style="margin: 0 0 20px 0; font-size: 1.4em; display: flex; align-items: center;">
-        <span style="margin-right: 10px;">⚙️</span> Backend Development
-      </h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Node.js</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Express.js</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Python</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">MongoDB</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">PostgreSQL</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Firebase</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Supabase</span>
-      </div>
-    </div>
-
-    <!-- UI/UX Design -->
-    <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; padding: 25px; color: white;">
-      <h3 style="margin: 0 0 20px 0; font-size: 1.4em; display: flex; align-items: center;">
-        <span style="margin-right: 10px;">🎨</span> UI/UX Design
-      </h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Figma</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Adobe XD</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Photoshop</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Tailwind CSS</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Material-UI</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Chakra UI</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Framer Motion</span>
-      </div>
-    </div>
-
-    <!-- Tools & DevOps -->
-    <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 12px; padding: 25px; color: white;">
-      <h3 style="margin: 0 0 20px 0; font-size: 1.4em; display: flex; align-items: center;">
-        <span style="margin-right: 10px;">🔧</span> Tools & DevOps
-      </h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Git</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Docker</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">AWS</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Vercel</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Netlify</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">VS Code</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; font-size: 0.9em;">Postman</span>
-      </div>
-    </div>
-
-  </div>
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vickyymosafan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
-<!-- Projects Section -->
-<div style="background: white; border-radius: 15px; padding: 40px; margin-bottom: 50px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); border: 1px solid #e1e8ed;">
-  <h2 style="color: #2c3e50; margin: 0 0 40px 0; font-size: 2.5em; text-align: center; display: flex; align-items: center; justify-content: center;">
-    <span style="margin-right: 15px;">🚀</span> Featured Projects
-  </h2>
 
-  <!-- Projects Grid -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 30px;">
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-    <!-- Project 1 -->
-    <div style="border: 1px solid #e1e8ed; border-radius: 12px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; color: white;">
-        <h3 style="margin: 0 0 10px 0; font-size: 1.4em;">E-Commerce Platform</h3>
-        <p style="margin: 0; opacity: 0.9; line-height: 1.5;">Full-stack e-commerce solution with modern UI/UX design and seamless user experience</p>
-      </div>
-      <div style="padding: 25px;">
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px;">
-          <span style="background: #e3f2fd; color: #1976d2; padding: 4px 10px; border-radius: 15px; font-size: 0.8em;">React</span>
-          <span style="background: #e8f5e8; color: #2e7d32; padding: 4px 10px; border-radius: 15px; font-size: 0.8em;">Node.js</span>
-          <span style="background: #fff3e0; color: #f57c00; padding: 4px 10px; border-radius: 15px; font-size: 0.8em;">MongoDB</span>
-          <span style="background: #fce4ec; color: #c2185b; padding: 4px 10px; border-radius: 15px; font-size: 0.8em;">Figma</span>
-        </div>
-        <p style="color: #5a6c7d; line-height: 1.6; margin: 0 0 20px 0;">
-          Comprehensive e-commerce platform featuring responsive design, payment integration, inventory management, and admin dashboard.
-        </p>
-        <div style="display: flex; gap: 10px;">
-          <a href="#" style="background: #667eea; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9em;">Live Demo</a>
-          <a href="#" style="border: 1px solid #667eea; color: #667eea; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9em;">Source Code</a>
-        </div>
-      </div>
-    </div>
+## 🛠️ Tech Stack & Keahlian
 
-    <!-- Project 2 -->
-    <div style="border: 1px solid #e1e8ed; border-radius: 12px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; color: white;">
-        <h3 style="margin: 0 0 10px 0; font-size: 1.4em;">Task Management App</h3>
-        <p style="margin: 0; opacity: 0.9; line-height: 1.5;">Collaborative project management tool with real-time updates and intuitive interface</p>
-      </div>
-      <div style="padding: 25px;">
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px;">
-          <span style="background: #e3f2fd; color: #1976d2; padding: 4px 10px; border-radius: 15px; font-size: 0.8em;">Next.js</span>
-          <span style="background: #e8f5e8; color: #2e7d32; padding: 4px 10px; border-radius: 15px; font-size: 0.8em;">TypeScript</span>
-          <span style="background: #fff3e0; color: #f57c00; padding: 4px 10px; border-radius: 15px; font-size: 0.8em;">Supabase</span>
-          <span style="background: #fce4ec; color: #c2185b; padding: 4px 10px; border-radius: 15px; font-size: 0.8em;">Tailwind</span>
-        </div>
-        <p style="color: #5a6c7d; line-height: 1.6; margin: 0 0 20px 0;">
-          Modern task management application with drag-and-drop functionality, team collaboration features, and beautiful UI design.
-        </p>
-        <div style="display: flex; gap: 10px;">
-          <a href="#" style="background: #f5576c; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9em;">Live Demo</a>
-          <a href="#" style="border: 1px solid #f5576c; color: #f5576c; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9em;">Source Code</a>
-        </div>
-      </div>
-    </div>
+<div align="center">
 
-    <!-- Project 3 -->
-    <div style="border: 1px solid #e1e8ed; border-radius: 12px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; color: white;">
-        <h3 style="margin: 0 0 10px 0; font-size: 1.4em;">Portfolio Website</h3>
-        <p style="margin: 0; opacity: 0.9; line-height: 1.5;">Personal portfolio showcasing design skills and development expertise</p>
-      </div>
-      <div style="padding: 25px;">
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px;">
-          <span style="background: #e3f2fd; color: #1976d2; padding: 4px 10px; border-radius: 15px; font-size: 0.8em;">Vue.js</span>
-          <span style="background: #e8f5e8; color: #2e7d32; padding: 4px 10px; border-radius: 15px; font-size: 0.8em;">Nuxt.js</span>
-          <span style="background: #fff3e0; color: #f57c00; padding: 4px 10px; border-radius: 15px; font-size: 0.8em;">GSAP</span>
-          <span style="background: #fce4ec; color: #c2185b; padding: 4px 10px; border-radius: 15px; font-size: 0.8em;">Adobe XD</span>
-        </div>
-        <p style="color: #5a6c7d; line-height: 1.6; margin: 0 0 20px 0;">
-          Creative portfolio website with smooth animations, interactive elements, and responsive design showcasing both development and design skills.
-        </p>
-        <div style="display: flex; gap: 10px;">
-          <a href="#" style="background: #00f2fe; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9em;">Live Demo</a>
-          <a href="#" style="border: 1px solid #00f2fe; color: #00f2fe; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9em;">Source Code</a>
-        </div>
-      </div>
-    </div>
+### 💻 Bahasa Pemrograman
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
 
-  </div>
+### 🚀 Framework & Library
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs" />
+
+### 🎨 Styling & Design
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma,photoshop" />
+
+### 🗄️ Database & Backend
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase" />
+
+### 🔧 Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
+
+### ☁️ Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=netlify,heroku,aws,gcp" />
+
 </div>
 
-<!-- GitHub Snake Animation -->
-<div style="background: white; border-radius: 15px; padding: 40px; margin-bottom: 50px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); border: 1px solid #e1e8ed; text-align: center;">
-  <h2 style="color: #2c3e50; margin: 0 0 30px 0; font-size: 2.5em; display: flex; align-items: center; justify-content: center;">
-    <span style="margin-right: 15px;">🐍</span> GitHub Contributions
-  </h2>
-  <div style="background: #f8f9fa; border-radius: 10px; padding: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="max-width: 100%; height: auto;" />
-  </div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Kontribusi GitHub Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-<!-- Contact Section -->
-<div style="background: white; border-radius: 15px; padding: 40px; margin-bottom: 50px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); border: 1px solid #e1e8ed;">
-  <h2 style="color: #2c3e50; margin: 0 0 40px 0; font-size: 2.5em; text-align: center; display: flex; align-items: center; justify-content: center;">
-    <span style="margin-right: 15px;">🤝</span> Mari Terhubung!
-  </h2>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <!-- Contact Grid -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px;">
+## 📈 Aktivitas Coding Mingguan
 
-    <!-- Email -->
-    <div style="text-align: center; padding: 30px; border-radius: 12px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; transition: transform 0.3s ease;">
-      <div style="font-size: 3em; margin-bottom: 15px;">📧</div>
-      <h3 style="margin: 0 0 10px 0; font-size: 1.3em;">Email</h3>
-      <p style="margin: 0 0 20px 0; opacity: 0.9; line-height: 1.5;">
-        Untuk diskusi proyek, kolaborasi, atau pertanyaan profesional
-      </p>
-      <a href="mailto:mvickymosafan@gmail.com" style="background: rgba(255,255,255,0.2); color: white; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-weight: 500; display: inline-block; transition: background 0.3s ease;">
-        mvickymosafan@gmail.com
-      </a>
-    </div>
+<div align="center">
 
-    <!-- LinkedIn -->
-    <div style="text-align: center; padding: 30px; border-radius: 12px; background: linear-gradient(135deg, #0077b5 0%, #00a0dc 100%); color: white; transition: transform 0.3s ease;">
-      <div style="font-size: 3em; margin-bottom: 15px;">💼</div>
-      <h3 style="margin: 0 0 10px 0; font-size: 1.3em;">LinkedIn</h3>
-      <p style="margin: 0 0 20px 0; opacity: 0.9; line-height: 1.5;">
-        Terhubung untuk networking profesional dan peluang karir
-      </p>
-      <a href="https://linkedin.com/in/vickymosafan/" target="_blank" style="background: rgba(255,255,255,0.2); color: white; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-weight: 500; display: inline-block; transition: background 0.3s ease;">
-        Connect with me
-      </a>
-    </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-    <!-- Instagram -->
-    <div style="text-align: center; padding: 30px; border-radius: 12px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; transition: transform 0.3s ease;">
-      <div style="font-size: 3em; margin-bottom: 15px;">📸</div>
-      <h3 style="margin: 0 0 10px 0; font-size: 1.3em;">Instagram</h3>
-      <p style="margin: 0 0 20px 0; opacity: 0.9; line-height: 1.5;">
-        Lihat behind-the-scenes dari proses development dan design
-      </p>
-      <a href="https://instagram.com/frontendenthusiast" target="_blank" style="background: rgba(255,255,255,0.2); color: white; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-weight: 500; display: inline-block; transition: background 0.3s ease;">
-        Follow me
-      </a>
-    </div>
+</div>
 
-  </div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <!-- Call to Action -->
-  <div style="text-align: center; margin-top: 40px; padding: 30px; background: #f8f9fa; border-radius: 12px; border-left: 4px solid #667eea;">
-    <h3 style="color: #2c3e50; margin: 0 0 15px 0; font-size: 1.4em;">Ready to collaborate?</h3>
-    <p style="color: #5a6c7d; margin: 0; line-height: 1.6; font-size: 1.1em;">
-      Saya selalu terbuka untuk proyek menarik, diskusi teknologi, atau sekadar berbagi pengalaman dalam dunia development dan design. Mari berkolaborasi menciptakan sesuatu yang luar biasa!
-    </p>
-  </div>
+## 💡 Quote Inspiratif
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Mari Terhubung!
+
+<div align="center">
+
+### 📫 Kontak Saya
+<a href="mailto:mvickymosafan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/vickymosafan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/frontendenthusiast" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://twitter.com/vickymosafan" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+
+### 🌐 Portfolio & Blog
+<a href="https://vickymosafan.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://dev.to/vickymosafan" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+</a>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Proyek Terbaru
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=awesome-portfolio&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/awesome-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=react-dashboard&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/react-dashboard)
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 Statistik Tambahan
+
+<div align="center">
+
+<!-- 3D Contribution Calendar -->
+<img src="https://github.com/vickyymosafan/vickyymosafan/blob/output/github-contribution-grid-snake.svg" alt="3D Contribution Calendar" />
+
+<!-- Detailed Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vickyymosafan&theme=tokyonight" />
+
+</div>
+
+<!-- Support Section -->
+<div align="center">
+
+## ☕ Dukung Saya
+
+Jika Anda menyukai karya saya, pertimbangkan untuk membeli saya kopi! ☕
+
+<a href="https://www.buymeacoffee.com/vickymosafan" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" />
+</a>
 
 </div>
 
 <!-- Footer -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 50px 40px; text-align: center; color: white; margin-top: 50px;">
-  <h2 style="margin: 0 0 20px 0; font-size: 2.5em; font-weight: 700;">
-    💫 Terima kasih telah mengunjungi profil saya!
-  </h2>
-  <p style="margin: 0; font-size: 1.2em; opacity: 0.9; line-height: 1.6;">
-    Mari berkolaborasi dan menciptakan sesuatu yang luar biasa bersama-sama
-  </p>
+<div align="center">
 
-  <!-- Profile Views -->
-  <div style="margin-top: 30px;">
-    <img src="https://komarev.com/ghpvc/?username=vickyymosafan&label=Profile%20Views&color=white&style=flat-square" alt="Profile Views" style="border-radius: 5px;" />
-  </div>
-</div>
+### 💫 Terima kasih telah mengunjungi profil saya!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
-
-<!-- Responsive CSS -->
-<style>
-@media (max-width: 768px) {
-  div[style*="grid-template-columns: 1fr 1fr"] {
-    grid-template-columns: 1fr !important;
-  }
-
-  div[style*="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr))"] {
-    grid-template-columns: 1fr !important;
-  }
-
-  div[style*="grid-template-columns: repeat(auto-fit, minmax(350px, 1fr))"] {
-    grid-template-columns: 1fr !important;
-  }
-
-  div[style*="grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))"] {
-    grid-template-columns: 1fr !important;
-  }
-
-  h1[style*="font-size: 3.5em"] {
-    font-size: 2.5em !important;
-  }
-
-  h2[style*="font-size: 2.5em"] {
-    font-size: 2em !important;
-  }
-
-  div[style*="padding: 60px 40px"] {
-    padding: 40px 20px !important;
-  }
-
-  div[style*="padding: 40px"] {
-    padding: 25px !important;
-  }
-
-  div[style*="padding: 50px 40px"] {
-    padding: 30px 20px !important;
-  }
-}
-
-@media (max-width: 480px) {
-  h1[style*="font-size: 2.5em"] {
-    font-size: 2em !important;
-  }
-
-  h2[style*="font-size: 2em"] {
-    font-size: 1.5em !important;
-  }
-
-  div[style*="padding: 25px"] {
-    padding: 20px !important;
-  }
-
-  img[src*="readme-typing-svg"] {
-    max-width: 100% !important;
-    height: auto !important;
-  }
-}
-</style>
