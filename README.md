@@ -1,20 +1,22 @@
-<div style="width: 100%; max-width: 1200px; margin: 0 auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div align="center">
 
-<!-- Hero Section -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 60px 40px; text-align: center; margin-bottom: 40px; color: white; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">
-  <h1 style="font-size: 3.5em; margin: 0 0 20px 0; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
-    M. Vicky Mosafan
-  </h1>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vicky%20Mosafan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI/UX%20Enthusiast&descAlignY=51&descAlign=50"/>
 
-  <!-- Updated Typing Animation -->
-  <div style="margin: 30px 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%26+UI%2FUX+Enthusiast;Membangun+Solusi+Digital+End-to-End;Menggabungkan+Teknologi+%26+Desain;Mari+Berkolaborasi+Menciptakan+Inovasi!" alt="Typing SVG" />
-  </div>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya!;Frontend+Developer+Berpengalaman;Membangun+Pengalaman+Web+Modern;Mari+Berkolaborasi+Bersama!" alt="Typing SVG" />
 
-  <p style="font-size: 1.3em; margin: 20px 0 0 0; opacity: 0.9; line-height: 1.6;">
-    Passionate about creating seamless digital experiences from concept to deployment
-  </p>
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vickyymosafan&label=Pengunjung%20Profil&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vickyymosafan?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/vickyymosafan?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+</p>
+
 </div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Tentang Saya
 
