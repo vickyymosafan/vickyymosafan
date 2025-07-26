@@ -3,8 +3,8 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vicky%20Mosafan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI/UX%20Enthusiast&descAlignY=51&descAlign=50"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya!;Frontend+Developer+Berpengalaman;Membangun+Pengalaman+Web+Modern;Mari+Berkolaborasi+Bersama!" alt="Typing SVG" />
+<!-- Updated Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya!;Frontend+Developer+Berpengalaman;Membangun+Pengalaman+Web+Modern;Mari+Berkolaborasi+Bersama!" alt="Typing SVG" />
 
 <!-- Profile Views & Followers -->
 <p>
