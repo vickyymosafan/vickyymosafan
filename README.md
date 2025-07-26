@@ -60,6 +60,8 @@
 </td>
 <td width="40%" align="center">
 
+<div align="left">
+
 ### 📈 Development Philosophy
 
 ```typescript
@@ -90,6 +92,8 @@ const developer = {
 - 📝 Technical Writing
 - 🎤 Community Speaking
 - 👨‍🏫 Mentoring Developers
+
+</div>
 
 </td>
 </tr>
