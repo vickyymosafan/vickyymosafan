@@ -37,7 +37,7 @@
 
 <table>
 <tr>
-<td width="40%" align="center">
+<td width="60%" align="center">
 
 ### 🎯 Core Expertise
 
@@ -58,12 +58,7 @@
 - 🧠 **AI/ML Integration** - Modern Web Applications
 
 </td>
-<td width="30%" align="center">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding Animation" width="300"/>
-
-</td>
-<td width="30%" align="center">
+<td width="40%" align="center">
 
 ### 📈 Development Philosophy
 
