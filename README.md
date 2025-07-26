@@ -16,11 +16,6 @@
 ### 📊 Profile Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=vickyymosafan&label=Profile%20Views&color=0e75b6&style=flat-square)
 
-### 🤖 Workflow Status
-![Snake Animation](https://github.com/vickyymosafan/vickyymosafan/actions/workflows/snake.yml/badge.svg)
-![Wakatime Stats](https://github.com/vickyymosafan/vickyymosafan/actions/workflows/waka-readme.yml/badge.svg)
-![GitHub Metrics](https://github.com/vickyymosafan/vickyymosafan/actions/workflows/metrics.yml/badge.svg)
-
 ### 🌍 Location & Contact
 📍 **Surabaya, Jawa Timur, Indonesia**
 🎓 **Universitas Muhammadiyah Jember**
@@ -101,7 +96,7 @@ const developer = {
 
 <div align="center">
 
-## 📊 GitHub Analytics & Metrics
+## 📊 GitHub Analytics
 
 <table>
 <tr>
@@ -129,85 +124,6 @@ const developer = {
 </td>
 </tr>
 </table>
-
-### 📈 GitHub Metrics (Auto-Generated)
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/vickyymosafan?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=1&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions=1&discussions.categories=true&discussions.categories.limit=0&followup=1&followup.sections=repositories&followup.indepth=false&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&reactions=1&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.details=false&reactions.ignored=false&stars=1&stars.limit=4&config.timezone=Asia%2FJakarta)
-
-</div>
-
-## ⏰ Wakatime Coding Stats
-
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data**
-
-> 📦 ? Used in GitHub's Storage
- >
-> 🏆 ? Contributions in the Year 2024
- >
-> 💼 Opt to Hire
- >
-> 📜 ? Public Repositories
- >
-> 🔑 ? Private Repositories
- >
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                ? commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-🌆 Daytime                ? commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-🌃 Evening                ? commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-🌙 Night                  ? commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-
-```
-📅 **I'm Most Productive on ?**
-
-```text
-Monday                   ? commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-Tuesday                  ? commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-Wednesday                ? commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-Thursday                 ? commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-Friday                   ? commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-Saturday                 ? commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-Sunday                   ? commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-
-```
-
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages:
-No Activity Tracked This Week
-
-🔥 Editors:
-No Activity Tracked This Week
-
-💻 Operating System:
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in ?**
-
-```text
-?                        ? repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-?                        ? repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-?                        ? repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-?                        ? repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-?                        ? repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   ??%
-
-```
-
-
-
- Last Updated on ?/??/???? ??:??:?? UTC
-<!--END_SECTION:waka-->
-
-</div>
 
 </div>
 
@@ -338,42 +254,6 @@ No Activity Tracked This Week
 ---
 
 <div align="center">
-
-## 🤖 Automated Profile Updates
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🐍 Snake Animation
-**Auto-generated setiap 12 jam**
-- Visualisasi kontribusi GitHub
-- Support dark/light theme
-- Format SVG & GIF
-
-</td>
-<td width="33%" align="center">
-
-### ⏰ Wakatime Stats
-**Update harian pukul 00:30 WIB**
-- Statistik coding time
-- Bahasa pemrograman
-- Aktivitas mingguan
-
-</td>
-<td width="34%" align="center">
-
-### 📊 GitHub Metrics
-**Update harian pukul 07:00 WIB**
-- Analisis mendalam repository
-- Achievement & habits
-- Activity & contributions
-
-</td>
-</tr>
-</table>
-
-### 🎯 GitHub Contribution Snake Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake-dark.svg">
