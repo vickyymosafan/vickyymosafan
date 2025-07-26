@@ -255,31 +255,6 @@ const developer = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="30%" align="center">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="200"/>
-
-</td>
-<td width="40%" align="center">
-
-### 💫 "Membangun masa depan, satu commit dalam satu waktu" 🚀
-
-**Pengembang Fullstack | Arsitek Perangkat Lunak | Enthusiast Teknologi**
-
-### 🌟 Terima kasih telah mengunjungi profil saya!
-**Mari terhubung dan membangun sesuatu yang luar biasa bersama!**
-
-</td>
-<td width="30%" align="center">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="200"/>
-
-</td>
-</tr>
-</table>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake.svg">
