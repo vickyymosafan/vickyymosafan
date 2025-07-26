@@ -259,9 +259,7 @@ const developer = {
 
 <div align="center">
 
-## 🎨 3D Profile Contribution
-
-### 🌈 Interactive 3D Visualization
+## Visualization
 
 <table>
 <tr>
