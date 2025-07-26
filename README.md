@@ -1,205 +1,192 @@
-<div align="center">
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .hero-section {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 60px 0;
+            text-align: center;
+            border-radius: 20px;
+            margin-bottom: 40px;
+        }
+        .hero-content {
+            color: white;
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin: 40px 0;
+        }
+        .card {
+            background: #f8fafc;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border: 1px solid #e2e8f0;
+        }
+        .tech-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 25px;
+            margin: 30px 0;
+        }
+        .contact-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+    </style>
+</head>
+<body>
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vicky%20Mosafan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI/UX%20Enthusiast&descAlignY=51&descAlign=50"/>
+<div class="hero-section">
+    <div class="hero-content">
+        <h1>🚀 M. Vicky Mosafan</h1>
+        <h2>Fullstack Developer & UI/UX Enthusiast</h2>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya!;Frontend+Developer+Berpengalaman;Membangun+Pengalaman+Web+Modern;Mari+Berkolaborasi+Bersama!" alt="Typing SVG" />
+        <!-- Typing Animation -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Selamat+Datang+di+Profil+Saya!;Fullstack+Developer+Berpengalaman;UI/UX+Enthusiast+%26+Problem+Solver;Membangun+Solusi+Digital+End-to-End;Mari+Berkolaborasi+Bersama!" alt="Typing SVG" />
 
-<!-- Profile Views & Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=vickyymosafan&label=Pengunjung%20Profil&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vickyymosafan?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/vickyymosafan?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-</p>
-
+        <!-- Profile Views -->
+        <div style="margin-top: 20px;">
+            <img src="https://komarev.com/ghpvc/?username=vickyymosafan&label=Pengunjung%20Profil&color=white&style=flat-square" alt="Profile Views" />
+        </div>
+    </div>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Tentang Saya
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```javascript
-const vicky = {
+<div class="grid-container">
+    <div class="card">
+        <h2>👨‍💻 Tentang Saya</h2>
+        <div style="text-align: left;">
+            <pre><code>const vicky = {
     nama: "M. Vicky Mosafan",
     lokasi: "Surabaya, Jawa Timur, Indonesia",
     pendidikan: "Universitas Muhammadiyah Jember",
-    peran: "Frontend Developer",
-    fokus: "Membangun pengalaman web yang indah dan fungsional",
-    sedangBelajar: ["Next.js", "TypeScript", "React Native"],
-    hobi: ["Coding", "Design", "Photography"],
-    motto: "Kode yang bersih adalah kode yang bahagia! 😊"
-};
-```
+    peran: "Fullstack Developer & UI/UX Enthusiast",
+    fokus: "End-to-end digital solutions",
+    sedangBelajar: ["Next.js", "TypeScript", "React Native", "Figma"],
+    keahlian: ["Frontend", "Backend", "UI/UX Design"],
+    motto: "Design with purpose, code with passion! 🎨💻"
+};</code></pre>
+        </div>
+    </div>
 
-### 🎯 Saat Ini Fokus Pada:
-- 🔭 Mengembangkan aplikasi web modern dengan **React & Next.js**
-- 🌱 Mempelajari **TypeScript** dan **React Native**
-- 👯 Mencari kolaborasi dalam proyek **Open Source**
-- 💬 Siap membantu dengan **Frontend Development**
-- ⚡ **Fun fact**: Saya suka kopi dan coding di malam hari! ☕
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 Statistik GitHub
-
-<div align="center">
-
-<!-- GitHub Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=vickyymosafan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vickyymosafan&theme=tokyonight&hide_border=true" width="48%" />
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" />
-
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vickyymosafan&theme=tokyo-night&hide_border=true&area=true" width="96%" />
-
-</div>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vickyymosafan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+    <div class="card">
+        <h2>🎯 Saat Ini Fokus Pada</h2>
+        <ul style="text-align: left; list-style: none; padding: 0;">
+            <li>🔭 Mengembangkan aplikasi fullstack dengan <strong>React & Node.js</strong></li>
+            <li>🎨 Merancang pengalaman pengguna yang intuitif dengan <strong>Figma</strong></li>
+            <li>🌱 Mempelajari <strong>TypeScript</strong> dan <strong>React Native</strong></li>
+            <li>👯 Mencari kolaborasi dalam proyek <strong>Open Source</strong></li>
+            <li>💬 Siap membantu dengan <strong>Fullstack Development & UI/UX</strong></li>
+            <li>⚡ <strong>Fun fact</strong>: Saya suka kopi dan design di malam hari! ☕🌙</li>
+        </ul>
+    </div>
 </div>
 
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack & Keahlian
+<h2 style="text-align: center; margin: 50px 0 30px 0;">🛠️ Tech Stack & Keahlian</h2>
 
-<div align="center">
+<div class="tech-grid">
+    <div class="card">
+        <h3>💻 Frontend Development</h3>
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue" style="margin: 10px 0;" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass" style="margin: 10px 0;" />
+    </div>
 
-### 💻 Bahasa Pemrograman
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
+    <div class="card">
+        <h3>⚙️ Backend Development</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java" style="margin: 10px 0;" />
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase" style="margin: 10px 0;" />
+    </div>
 
-### 🚀 Framework & Library
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs" />
+    <div class="card">
+        <h3>🎨 UI/UX Design</h3>
+        <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd" style="margin: 10px 0;" />
+        <p style="margin-top: 15px; color: #64748b;">User Research • Wireframing • Prototyping • Design Systems</p>
+    </div>
 
-### 🎨 Styling & Design
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma,photoshop" />
-
-### 🗄️ Database & Backend
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase" />
-
-### 🔧 Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
-
-### ☁️ Cloud & Deployment
-<img src="https://skillicons.dev/icons?i=netlify,heroku,aws,gcp" />
-
+    <div class="card">
+        <h3>🔧 Tools & Technologies</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" style="margin: 10px 0;" />
+        <img src="https://skillicons.dev/icons?i=netlify,heroku,aws,gcp" style="margin: 10px 0;" />
+    </div>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Kontribusi GitHub Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<div style="text-align: center; margin: 50px 0;">
+    <h2>🐍 Kontribusi GitHub</h2>
+    <img src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="max-width: 100%; border-radius: 10px;" />
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 style="text-align: center; margin: 50px 0 30px 0;">🤝 Mari Terhubung!</h2>
 
-## 📈 Aktivitas Coding Mingguan
+<div class="contact-grid">
+    <div class="card" style="text-align: center;">
+        <h3>📧 Email</h3>
+        <a href="mailto:mvickymosafan@gmail.com" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/mvickymosafan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 10px 0;"/>
+        </a>
+        <p style="color: #64748b; margin-top: 10px;">Untuk kolaborasi & diskusi proyek</p>
+    </div>
 
-<div align="center">
+    <div class="card" style="text-align: center;">
+        <h3>💼 LinkedIn</h3>
+        <a href="https://linkedin.com/in/vickymosafan/" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Vicky_Mosafan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px 0;"/>
+        </a>
+        <p style="color: #64748b; margin-top: 10px;">Networking profesional & karir</p>
+    </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+    <div class="card" style="text-align: center;">
+        <h3>📸 Instagram</h3>
+        <a href="https://instagram.com/frontendenthusiast" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/@frontendenthusiast-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 10px 0;"/>
+        </a>
+        <p style="color: #64748b; margin-top: 10px;">Behind the scenes & inspirasi</p>
+    </div>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 style="text-align: center; margin: 50px 0 30px 0;">🎯 Proyek Unggulan</h2>
 
-## 💡 Quote Inspiratif
+<div class="grid-container">
+    <div class="card">
+        <h3>🌟 Portfolio Website</h3>
+        <p style="color: #64748b; margin: 15px 0;">Website portfolio personal dengan design modern dan interaktif menggunakan React & Next.js</p>
+        <div style="margin: 15px 0;">
+            <span style="background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">React</span>
+            <span style="background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Next.js</span>
+            <span style="background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 12px;">Tailwind CSS</span>
+        </div>
+    </div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <div class="card">
+        <h3>📊 Dashboard Analytics</h3>
+        <p style="color: #64748b; margin: 15px 0;">Dashboard analytics dengan visualisasi data real-time dan interface yang user-friendly</p>
+        <div style="margin: 15px 0;">
+            <span style="background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Vue.js</span>
+            <span style="background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Node.js</span>
+            <span style="background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 12px;">MongoDB</span>
+        </div>
+    </div>
+
+    <div class="card">
+        <h3>🎨 Design System</h3>
+        <p style="color: #64748b; margin: 15px 0;">Komprehensif design system dengan komponen reusable untuk konsistensi UI/UX</p>
+        <div style="margin: 15px 0;">
+            <span style="background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Figma</span>
+            <span style="background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Storybook</span>
+            <span style="background: #e2e8f0; padding: 4px 8px; border-radius: 12px; font-size: 12px;">React</span>
+        </div>
+    </div>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Mari Terhubung!
-
-<div align="center">
-
-### 📫 Kontak Saya
-<a href="mailto:mvickymosafan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/vickymosafan/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/frontendenthusiast" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://twitter.com/vickymosafan" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-
-### 🌐 Portfolio & Blog
-<a href="https://vickymosafan.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://dev.to/vickymosafan" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-</a>
-
+<div style="text-align: center; margin: 60px 0 40px 0; padding: 40px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; color: white;">
+    <h2 style="margin-bottom: 20px;">💫 Terima kasih telah mengunjungi profil saya!</h2>
+    <p style="font-size: 18px; margin-bottom: 0;">Mari berkolaborasi dan menciptakan sesuatu yang luar biasa bersama! 🚀</p>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Proyek Terbaru
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=awesome-portfolio&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/awesome-portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=react-dashboard&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/react-dashboard)
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 Statistik Tambahan
-
-<div align="center">
-
-<!-- 3D Contribution Calendar -->
-<img src="https://github.com/vickyymosafan/vickyymosafan/blob/output/github-contribution-grid-snake.svg" alt="3D Contribution Calendar" />
-
-<!-- Detailed Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vickyymosafan&theme=tokyonight" />
-
-</div>
-
-<!-- Support Section -->
-<div align="center">
-
-## ☕ Dukung Saya
-
-Jika Anda menyukai karya saya, pertimbangkan untuk membeli saya kopi! ☕
-
-<a href="https://www.buymeacoffee.com/vickymosafan" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" />
-</a>
-
-</div>
-
-<!-- Footer -->
-<div align="center">
-
-### 💫 Terima kasih telah mengunjungi profil saya!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-</div>
+</body>
+</html>
