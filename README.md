@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Halo, Saya Vicky Mosafan
-
 <table>
 <tr>
 <td width="50%" align="center">
@@ -46,12 +44,16 @@
 | **Database** | PostgreSQL, MongoDB, MySQL | 2 years |
 | **Mobile** | React Native | 6 month |
 
-### 🚀 Current Focus
+<div align="left">
+
+### 🚀 Fokus Saat Ini
 - 🏗️ **Fundamental Backend** - Mempelajari arsitektur server dan API
 - 🔧 **Node.js & Express** - Membangun REST API yang robust
 - 🐍 **Python Development** - Eksplorasi backend dengan Python
 - 🎨 **Laravel Framework** - Mempelajari PHP modern development
 - 📚 **Database Design** - Optimasi query dan struktur database
+
+</div>
 
 </td>
 <td width="40%" align="center">
@@ -253,8 +255,35 @@ const developer = {
 
 <div align="center">
 
+<table>
+<tr>
+<td width="30%" align="center">
 
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="200"/>
 
-![Snake Animation](https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake-dark.svg)
+</td>
+<td width="40%" align="center">
+
+### 💫 "Membangun masa depan, satu commit dalam satu waktu" 🚀
+
+**Pengembang Fullstack | Arsitek Perangkat Lunak | Enthusiast Teknologi**
+
+### 🌟 Terima kasih telah mengunjungi profil saya!
+**Mari terhubung dan membangun sesuatu yang luar biasa bersama!**
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="200"/>
+
+</td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
