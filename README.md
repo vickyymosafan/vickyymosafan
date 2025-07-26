@@ -57,14 +57,6 @@
 - 🤖 **DevOps Automation** - CI/CD Pipelines & IaC
 - 🧠 **AI/ML Integration** - Modern Web Applications
 
-</td>
-<td width="30%" align="center">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding Animation" width="300"/>
-
-</td>
-<td width="30%" align="center">
-
 ### 📈 Development Philosophy
 
 ```typescript
