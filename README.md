@@ -1,8 +1,10 @@
+<div align="center">
+
 # 👋 Halo, Saya Vicky Mosafan
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ## 🚀 Fullstack Developer & Software Architect
 
@@ -11,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86AB&width=400&lines=Fullstack+Developer;Software+Architect;Cloud+Engineer;DevOps+Enthusiast)](https://git.io/typing-svg)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 📊 Profile Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=vickyymosafan&label=Profile%20Views&color=0e75b6&style=flat-square)
@@ -19,21 +21,23 @@
 ![GitHub Stars](https://img.shields.io/github/stars/vickyymosafan?label=Stars&style=flat-square&color=yellow)
 
 ### 🌍 Location & Contact
-📍 **Surabaya, Jawa Timur, Indonesia**  
-🎓 **Universitas Muhammadiyah Jember**  
+📍 **Surabaya, Jawa Timur, Indonesia**
+🎓 **Universitas Muhammadiyah Jember**
 📧 **mvickymosafan@gmail.com**
 
 </td>
 </tr>
 </table>
 
-<br>
+</div>
+
+<div align="center">
 
 ## 💼 Professional Overview
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" align="center">
 
 ### 🎯 Core Expertise
 
@@ -48,13 +52,13 @@
 
 ### 🚀 Current Focus
 - 🏗️ **System Architecture** - Microservices & Distributed Systems
-- ☁️ **Cloud Native Development** - Containerization & Orchestration  
+- ☁️ **Cloud Native Development** - Containerization & Orchestration
 - 🔒 **Security & Performance** - Best Practices Implementation
 - 🤖 **DevOps Automation** - CI/CD Pipelines & IaC
 - 🧠 **AI/ML Integration** - Modern Web Applications
 
 </td>
-<td width="40%">
+<td width="40%" align="center">
 
 ### 📈 Development Philosophy
 
@@ -62,21 +66,21 @@
 const developer = {
   name: "Vicky Mosafan",
   role: "Fullstack Developer",
-  
+
   principles: [
     "Clean Code",
-    "Scalable Architecture", 
+    "Scalable Architecture",
     "Performance First",
     "Security by Design"
   ],
-  
+
   currentlyLearning: [
     "Rust", "Go",
     "Machine Learning",
     "Web3 Technologies"
   ],
-  
-  motto: "Building the future, 
+
+  motto: "Building the future,
           one commit at a time 🚀"
 };
 ```
@@ -91,30 +95,32 @@ const developer = {
 </tr>
 </table>
 
-<br>
+</div>
+
+<div align="center">
 
 ## 📊 GitHub Analytics
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vickyymosafan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vickyymosafan&theme=tokyonight&hide_border=true)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=vickyymosafan&theme=tokyo-night&hide_border=true&area=true&height=300)
 
@@ -122,7 +128,9 @@ const developer = {
 </tr>
 </table>
 
-<br>
+</div>
+
+<div align="center">
 
 ## 🛠️ Technology Stack
 
@@ -152,13 +160,15 @@ const developer = {
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<br>
+</div>
+
+<div align="center">
 
 ## 🏆 Achievements & Certifications
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 📜 Professional Certifications
 - 🏅 **AWS Certified Solutions Architect**
@@ -168,7 +178,7 @@ const developer = {
 - 🏅 **Kubernetes Application Developer**
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🎯 Technical Achievements
 - 🚀 **25+ Production Applications** deployed
@@ -181,30 +191,32 @@ const developer = {
 </tr>
 </table>
 
-<br>
+</div>
+
+<div align="center">
 
 ## 🎯 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 [![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=ecommerce-microservices&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/ecommerce-microservices)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 [![Real-time Chat](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=realtime-chat-app&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/realtime-chat-app)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 [![Task Management](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=task-management-system&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/task-management-system)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 [![Social Platform](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=social-media-platform&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/social-media-platform)
 
@@ -212,13 +224,15 @@ const developer = {
 </tr>
 </table>
 
-<br>
+</div>
+
+<div align="center">
 
 ## 🤝 Connect With Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 📫 Professional Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vickymosafan/)
@@ -226,7 +240,7 @@ const developer = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvickymosafan@gmail.com)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🌐 Social & Content
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vickymosafan)
@@ -236,6 +250,8 @@ const developer = {
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
