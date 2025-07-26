@@ -253,12 +253,99 @@ const developer = {
 
 ---
 
+<br>
+
+---
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake.svg">
-</picture>
+## 🎨 3D Profile Contribution
+
+### 🌈 Interactive 3D Visualization
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**🌙 Night Rainbow Theme**
+![3D Profile Night Rainbow](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</td>
+<td width="50%" align="center">
+
+**🌿 Green Theme**
+![3D Profile Green](./profile-3d-contrib/profile-green.svg)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**🎭 Season Theme**
+![3D Profile Season](./profile-3d-contrib/profile-season.svg)
+
+</td>
+<td width="50%" align="center">
+
+**🌃 Night View**
+![3D Profile Night View](./profile-3d-contrib/profile-night-view.svg)
+
+</td>
+</tr>
+</table>
+
+### 🎬 Animated Versions
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**🌱 Green Animated**
+![3D Profile Green Animate](./profile-3d-contrib/profile-green-animate.svg)
+
+</td>
+<td width="50%" align="center">
+
+**🍂 Season Animated**
+![3D Profile Season Animate](./profile-3d-contrib/profile-season-animate.svg)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**🌏 South Season Animated**
+![3D Profile South Season Animate](./profile-3d-contrib/profile-south-season-animate.svg)
+
+</td>
+</tr>
+</table>
+
+### 🧱 Additional Styles
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**🧩 Git Block Style**
+![3D Profile Git Block](./profile-3d-contrib/profile-gitblock.svg)
+
+</td>
+<td width="50%" align="center">
+
+**🌙 Night Green**
+![3D Profile Night Green](./profile-3d-contrib/profile-night-green.svg)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**🌸 South Season Static**
+![3D Profile South Season](./profile-3d-contrib/profile-south-season.svg)
+
+</td>
+</tr>
+</table>
 
 </div>
