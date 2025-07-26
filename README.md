@@ -37,7 +37,7 @@
 
 <table>
 <tr>
-<td width="60%" align="center">
+<td width="40%" align="center">
 
 ### 🎯 Core Expertise
 
@@ -58,7 +58,12 @@
 - 🧠 **AI/ML Integration** - Modern Web Applications
 
 </td>
-<td width="40%" align="center">
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding Animation" width="300"/>
+
+</td>
+<td width="30%" align="center">
 
 ### 📈 Development Philosophy
 
@@ -134,6 +139,10 @@ const developer = {
 
 ## 🛠️ Technology Stack
 
+<table>
+<tr>
+<td width="70%" align="center">
+
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -159,6 +168,18 @@ const developer = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Tech Stack Animation" width="250"/>
+
+### 💻 Always Coding
+**"Code is poetry written in logic"**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -259,9 +280,30 @@ const developer = {
 
 <div align="center">
 
+<table>
+<tr>
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="200"/>
+
+</td>
+<td width="40%" align="center">
+
 ### 💫 "Building the future, one commit at a time" 🚀
 
 **Fullstack Developer | Software Architect | Tech Enthusiast**
+
+### 🌟 Thanks for visiting my profile!
+**Let's connect and build something amazing together!**
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="200"/>
+
+</td>
+</tr>
+</table>
 
 ![Snake Animation](https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-contribution-grid-snake-dark.svg)
 
