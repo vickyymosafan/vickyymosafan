@@ -96,15 +96,8 @@ const developer = {
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
 <table>
 <tr>
-<td width="50%" align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vickyymosafan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-</td>
 <td width="50%" align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vickyymosafan&theme=tokyonight&hide_border=true)
@@ -117,19 +110,12 @@ const developer = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 </td>
-<td width="50%" align="center">
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=vickyymosafan&theme=tokyo-night&hide_border=true&area=true&height=300)
-
-</td>
 </tr>
 </table>
 
 </div>
 
 <div align="center">
-
-## 🛠️ Technology Stack
 
 <table>
 <tr>
@@ -172,8 +158,6 @@ const developer = {
 
 <div align="center">
 
-##  Flagship Projects
-
 <table>
 <tr>
 <td width="50%" align="center">
@@ -188,8 +172,6 @@ const developer = {
 </td>
 </tr>
 </table>
-
-### 📂 Proyek Lainnya
 <details>
 <summary>Lihat semua proyek (klik untuk expand)</summary>
 
