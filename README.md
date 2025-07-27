@@ -105,7 +105,7 @@ const developer = {
 </td>
 <td width="50%" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
 
 </td>
 </tr>
