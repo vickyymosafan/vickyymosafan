@@ -249,13 +249,9 @@ const developer = {
 
 </div>
 
-<br>
-
 ---
 
 <div align="center">
-
-## Visualization
 
 <table>
 <tr>
