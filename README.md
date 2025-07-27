@@ -261,7 +261,7 @@ const developer = {
 <tr>
 <td width="50%" align="center">
 
-![3D Profile Night Rainbow](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile Night Rainbow](./profile-3d-contrib/profile-gitblock.svg)
 
 </td>
 </tr>
