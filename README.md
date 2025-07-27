@@ -103,8 +103,6 @@ const developer = {
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vickyymosafan&theme=tokyonight&hide_border=true)
 
 </td>
-</tr>
-<tr>
 <td width="50%" align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
