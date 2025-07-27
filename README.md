@@ -261,7 +261,6 @@ const developer = {
 <tr>
 <td width="50%" align="center">
 
-**🌸 South Season Static**
 ![3D Profile Night Rainbow](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </td>
