@@ -39,7 +39,7 @@
 
 | Bidang | Teknologi | Pengalaman |
 |--------|-----------|------------|
-| **Frontend** | React, Next.js, Vue, TypeScript | 2 years |
+| **Frontend** | React, Next.js, Vue, TypeScript | 3 years |
 | **Backend** | Node.js, Express, Laravel, Python | 6 month |
 | **Database** | PostgreSQL, MongoDB, MySQL | 2 years |
 | **Mobile** | React Native | 6 month |
