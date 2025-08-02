@@ -6,7 +6,7 @@
 
 ## 🚀 Fullstack Developer & UI/UX Enthusiast
 
-**Membangun solusi end-to-end yang scalable dan modern**
+**Membangun solusi end-to-end yang scalable & modern**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86AB&width=400&lines=Fullstack+Developer;UI/UX+Enthusiast)](https://git.io/typing-svg)
 
