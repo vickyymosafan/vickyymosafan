@@ -39,13 +39,13 @@
 
 | Bidang | Teknologi | Pengalaman |
 |--------|-----------|------------|
-| **Frontend** | React, Next.js, Vue, TypeScript | 3 years |
-| **Backend** | Node.js, Express, Laravel, Python | 6 month |
-| **Database** | PostgreSQL, MongoDB, MySQL | 2 years |
+| **Frontend** | React, Next.js, Vue, TypeScript | 1 years |
+| **Backend** | Node.js, Express, Laravel, Python | 3 month |
+| **Database** | MySQL | 1 years |
 
 <div align="left">
 
-### 🚀 Fokus Saat Ini
+### 🚀 Fokus Saat Ini Mempelajari;
 - 🏗️ **Fundamental Backend** - Mempelajari arsitektur server dan API
 - 🔧 **Node.js & Express** - Membangun REST API yang robust
 - 🐍 **Python Development** - Eksplorasi backend dengan Python
