@@ -42,7 +42,6 @@
 | **Frontend** | React, Next.js, Vue, TypeScript | 3 years |
 | **Backend** | Node.js, Express, Laravel, Python | 6 month |
 | **Database** | PostgreSQL, MongoDB, MySQL | 2 years |
-| **Mobile** | React Native | 6 month |
 
 <div align="left">
 
@@ -136,9 +135,6 @@ const developer = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </td>
 <td width="30%" align="center">
