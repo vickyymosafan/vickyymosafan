@@ -161,7 +161,7 @@ const developer = {
 </td>
 <td width="50%" align="center">
 
-[![FE Auto Analysis Market](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=FE_auto-analysis-market&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/FE_auto-analysis-market)
+[![FE Auto Analysis Market](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=smartchat&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/smartchat.git)
 
 </td>
 </tr>
