@@ -161,7 +161,7 @@ const developer = {
 </td>
 <td width="50%" align="center">
 
-[![FE Auto Analysis Market](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=smartchat&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/smartchat.git)
+[![smartchat](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=smartchat&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/smartchat.git)
 
 </td>
 </tr>
@@ -173,19 +173,19 @@ const developer = {
 <tr>
 <td width="50%" align="center">
 
-[![SIM Architect](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=sim-architect&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/sim-architect)
+[![svaramind](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=svaramind&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/svaramind.git)
 
 </td>
 <td width="50%" align="center">
 
-[![BE Playlist Downloader](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=BE_playlist-downloader&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/BE_playlist-downloader)
+[![sistem-posyandu-lansia](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=sistem-posyandu-lansia&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/sistem-posyandu-lansia.git)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-[![PY Auto Analysis Market](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=PY_auto-analysis-market&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/PY_auto-analysis-market)
+[![auto-analysis-market](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=auto-analysis-market&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/auto-analysis-market.git)
 
 </td>
 <td width="50%" align="center">
