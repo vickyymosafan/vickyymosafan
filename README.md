@@ -190,7 +190,7 @@ const developer = {
 </td>
 <td width="50%" align="center">
 
-
+[![antosa-architect](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=antosa-architect&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/antosa-architect)
 
 </td>
 </tr>
