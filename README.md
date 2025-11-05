@@ -4,11 +4,8 @@
 <tr>
 <td width="50%" align="center">
 
-## 🚀 Fullstack Developer
-
-**Membangun solusi end-to-end yang scalable & modern**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86AB&width=400&lines=Fullstack+Developer)](https://git.io/typing-svg)
+## Hi 👋 I'm vickymosafan, a fullstack developer.
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Tech Stack Animation" width="250"/>
 
 </td>
 <td width="50%" align="center">
@@ -27,71 +24,9 @@
 
 </div>
 
-<div align="center">
+### ✍️ Languages
 
-## 💼 Professional Overview
-
-<table>
-<tr>
-<td width="60%" align="center">
-
-### 🎯 Core Expertise
-
-| Bidang | Teknologi | Pengalaman |
-|--------|-----------|------------|
-| **Frontend** | React, Next.js, Vue, TypeScript | 1 years |
-| **Backend** | Node.js, Express, Laravel, Python | 1 years |
-| **Database** | MySQL | 1 years |
-
-<div align="left">
-
-### 🚀 Fokus Saat Ini Mempelajari;
-- 🏗️ **Fundamental Backend** - Mempelajari arsitektur server dan API
-- 🔧 **Node.js & Express** - Membangun REST API yang robust
-- 🐍 **Python Development** - Eksplorasi backend dengan Python
-- 🎨 **Laravel Framework** - Mempelajari PHP modern development
-- 📚 **Database Design** - Optimasi query dan struktur database
-
-</div>
-
-</td>
-<td width="40%" align="center">
-
-<div align="left">
-
-### 📈 Development Philosophy
-
-```typescript
-const developer = {
-  name: "Vicky Mosafan",
-  role: "Fullstack Developer",
-
-  principles: [
-    "Clean Code",
-    "Scalable Architecture",
-    "Performance First",
-    "Security by Design"
-  ],
-
-  currentlyLearning: [
-    "Backend Fundamental",
-    "Database Optimization",
-    "API Development",
-    "Server Architecture"
-  ],
-
-  motto: "Building the future,
-          one commit at a time 🚀"
-};
-```
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3)
 
 <div align="center">
 
@@ -99,7 +34,7 @@ const developer = {
 <tr>
 <td width="50%" align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vickyymosafan&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=vickyymosafan&theme=tokyonight&hide_border=true)
 
 </td>
 <td width="50%" align="center">
@@ -112,43 +47,21 @@ const developer = {
 
 </div>
 
-<div align="center">
+### 🛠 Tech Stack and Tools
 
-<table>
-<tr>
-<td width="70%" align="center">
+| End                                                                  | Stack                                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![React](https://img.shields.io/badge/-React-1d365d?style=flat&logo=react&logoColor=white) ![Nextjs](https://img.shields.io/badge/-Next.js-0170fe?style=flat&logo=next.js) ![Vuejs](https://img.shields.io/badge/-Vue.js-1d365d?style=flat&logo=vue.js) ![Typescript](https://img.shields.io/badge/-Typescript-1539d5?style=flat&logo=typescript) |
+| ![Backend](https://img.shields.io/badge/-Backend-black?style=flat)   | ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-white?style=flat&logo=express) ![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat&logo=laravel)                                                                                                                                                                  |
+| ![Database](https://img.shields.io/badge/-Database-black?style=flat)     | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat&logo=postgresql)  ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql)  ![mongoDB](https://img.shields.io/badge/-mongoDB-white?style=flat&logo=mongodb)                                                                                                                                                                   |
+| ![IDE](https://img.shields.io/badge/-IDE-black?style=flat)           | ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode)                                                 |
+| ![Workflow](https://img.shields.io/badge/-Other-black?style=flat)           | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)                                                                                           |
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[gitHub-action]: https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=github
+[gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Commit_Workflow-black?style=flat
+[gcw]: https://github.com/vickymosafan/gitmoji-commit-workflow
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Database & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-</td>
-<td width="30%" align="center">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Tech Stack Animation" width="250"/>
-
-### 💻 Always Coding
-**"Code is poetry written in logic"**
-
-</td>
-</tr>
-</table>
-
-</div>
+---
 
 <div align="center">
 
@@ -200,41 +113,17 @@ const developer = {
 
 </div>
 
-<div align="center">
+---
 
-<table>
-<tr>
-<td width="50%" align="center">
+![3D Profile Night Rainbow](./profile-3d-contrib/profile-gitblock.svg)
 
-### 📫 Link Profesional
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vickymosafan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvickymosafan@gmail.com)
+---
 
-</td>
-<td width="50%" align="center">
 
 ### 🌐 Sosial & Konten
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vickymosafan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viicsyy/)
 
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-![3D Profile Night Rainbow](./profile-3d-contrib/profile-gitblock.svg)
-
-</td>
-</tr>
-</table>
-
-</div>
+### 📫 Link Profesional
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vickymosafan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvickymosafan@gmail.com)
