@@ -13,10 +13,7 @@
 ### 📊 Profile Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=vickyymosafan&label=Profile%20Views&color=0e75b6&style=flat-square)
 
-### 🌍 Location & Contact
-📍 **Surabaya, Jawa Timur, Indonesia**  
-🎓 **Universitas Muhammadiyah Jember**  
-📧 **mvickymosafan@gmail.com**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vickyymosafan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 </td>
 </tr>
