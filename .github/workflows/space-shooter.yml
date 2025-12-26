@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Space Shooter Animation
 
 on:
   schedule:
@@ -9,20 +9,25 @@ on:
       - main
 
 jobs:
-  generate-snake:
+  generate-shooter:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
       contents: write
     
     steps:
-      - name: Generate Snake Game
-        uses: Platane/snk/svg-only@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          node-version: '20'
+      
+      - name: Generate Space Shooter SVG
+        run: node scripts/generate-shooter.js
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
       
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

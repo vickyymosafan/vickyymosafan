@@ -199,12 +199,12 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## 🚀 Space Shooter
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/space-shooter-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/space-shooter.svg" />
+  <img alt="Space Shooter animation" src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/space-shooter.svg" />
 </picture>
 
 </div>
