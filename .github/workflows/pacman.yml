@@ -1,4 +1,4 @@
-name: Generate Space Shooter Animation
+name: Generate Pac-Man Animation
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  generate-shooter:
+  generate-pacman:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
@@ -24,8 +24,8 @@ jobs:
         with:
           node-version: '20'
       
-      - name: Generate Space Shooter SVG
-        run: node scripts/generate-shooter.js
+      - name: Generate Pac-Man SVG
+        run: node scripts/generate-pacman.js
         env:
           GITHUB_USER: ${{ github.repository_owner }}
       
