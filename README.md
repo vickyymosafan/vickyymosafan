@@ -108,52 +108,70 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-[![System Pemerintahan](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=system-pemerintahan&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/system-pemerintahan)
-
-</td>
-<td width="50%" align="center">
-
-[![smartchat](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=smartchat&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/smartchat.git)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>📂 View All Projects (click to expand)</summary>
+### 🤖 AI & Full Stack Applications
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-[![svaramind](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=svaramind&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/svaramind.git)
+[![ai-smartchat](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=ai-smartchat&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/vickyymosafan/ai-smartchat)
 
 </td>
 <td width="50%" align="center">
 
-[![sistem-posyandu-lansia](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=sistem-posyandu-lansia&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/sistem-posyandu-lansia.git)
+[![antosa-architect](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=antosa-architect&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/vickyymosafan/antosa-architect)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-[![auto-analysis-market](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=auto-analysis-market&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/auto-analysis-market.git)
+[![system-pemerintahan](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=system-pemerintahan&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/vickyymosafan/system-pemerintahan)
 
 </td>
 <td width="50%" align="center">
-
-[![imageconverter](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=imageconverter&theme=tokyonight&hide_border=true)](https://github.com/vickyymosafan/imageconverter)
 
 </td>
 </tr>
 </table>
 
-</details>
+---
+
+### ⚙️ Backend Systems
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+[![be_posyandu-digital](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=be_posyandu-digital&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/vickyymosafan/be_posyandu-digital)
+
+</td>
+<td width="50%" align="center">
+
+[![BE_playlist-downloader](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=BE_playlist-downloader&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/vickyymosafan/BE_playlist-downloader)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎨 Frontend & Tools
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+[![fe_pencatatan-posyandu](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=fe_pencatatan-posyandu&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/vickyymosafan/fe_pencatatan-posyandu)
+
+</td>
+<td width="50%" align="center">
+
+[![unfollowscan](https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=unfollowscan&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/vickyymosafan/unfollowscan)
+
+</td>
+</tr>
+</table>
 
 </div>
 
