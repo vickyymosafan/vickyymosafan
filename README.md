@@ -199,11 +199,24 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake.svg" />
-</picture>
+## 🏙️ 3D Contribution City
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City"/>
+
+<details>
+<summary>🎮 More City Themes (click to expand)</summary>
+
+<br/>
+
+| 🧱 GitBlock (Minecraft) | 🌲 Green Forest |
+|:-----------------------:|:---------------:|
+| <img src="./profile-3d-contrib/profile-gitblock.svg" width="400"/> | <img src="./profile-3d-contrib/profile-green.svg" width="400"/> |
+
+| 🌸 Seasonal | 🌃 Night View |
+|:-----------:|:-------------:|
+| <img src="./profile-3d-contrib/profile-season.svg" width="400"/> | <img src="./profile-3d-contrib/profile-night-view.svg" width="400"/> |
+
+</details>
 
 </div>
 

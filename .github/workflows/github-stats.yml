@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  generate-snake:
+  generate-3d-contrib:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
@@ -19,22 +19,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         
-      - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=cyan&color_dots=#1a1b27,#70a5fd,#bf91f3,#38bdae,#fc6d26
-      
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Generate 3D Contribution Calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      
+      - name: Commit 3D Contribution
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update 3d contribution calendar"
+          git push || true
 
   generate-metrics:
     runs-on: ubuntu-latest
