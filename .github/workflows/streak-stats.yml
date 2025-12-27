@@ -62,6 +62,7 @@ jobs:
           publish_branch: output
           publish_dir: ./dist
           keep_files: true
+          force_orphan: true
           commit_message: "chore: update streak stats [skip ci]"
           user_name: "github-actions[bot]"
           user_email: "github-actions[bot]@users.noreply.github.com"
