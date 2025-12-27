@@ -11,7 +11,6 @@ I am a Fullstack Developer who also works as a Prompting Engineer and leverages 
 I use AI coding agents to generate boilerplate, analyze errors, and accelerate iterations. I combine this with strong development principles. I build clean, modular, and maintainable codebases. On the backend I focus on efficient architecture, API security, and database performance. On the frontend I focus on reusable components and consistent structures.
 
 I follow SOLID, DRY, KISS, and modular design principles to keep the application efficient and scalable. For me, clear documentation, strong code structure, and thoughtful design form the foundation of fast, secure, and future ready applications.
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Tech Stack Animation" width="250"/>
 
 </td>
 <td width="50%" align="center">
