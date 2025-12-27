@@ -179,10 +179,17 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
 <a href="https://github.com/vickyymosafan/fe_pencatatan-posyandu">
 <img src="https://img.shields.io/badge/FE_Pencatatan_Posyandu-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="FE Pencatatan Posyandu"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://github.com/vickyymosafan/fe_posyandu-digital">
+<img src="https://img.shields.io/badge/FE_Posyandu_Digital-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="FE Posyandu Digital"/>
 </a>
 
 </td>
