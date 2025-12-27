@@ -1,12 +1,21 @@
 name: Generate Pacman Contribution Graph
 
 on:
-  # Run every 12 hours at minute 0
+  # Run every 12 hours
   schedule:
     - cron: "0 */12 * * *"
 
   # Allow manual trigger
   workflow_dispatch:
+    inputs:
+      speed:
+        description: 'Game speed (1=normal, 2=fast)'
+        required: false
+        default: '2'
+        type: choice
+        options:
+          - '1'
+          - '2'
 
   # Trigger on push to main
   push:
@@ -18,49 +27,135 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
+env:
+  GITHUB_USER: ${{ github.repository_owner }}
+  GAME_SPEED: ${{ github.event.inputs.speed || '2' }}
+
 jobs:
-  generate:
-    name: Generate & Deploy Pacman Animation
+  # Matrix build for all themes - runs in parallel
+  generate-themes:
+    name: Generate ${{ matrix.theme }} theme
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    
+    permissions:
+      contents: write
+
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - theme: github
+            filename: pacman-contribution-graph.svg
+            display_name: "GitHub Light"
+          - theme: github-dark
+            filename: pacman-contribution-graph-dark.svg
+            display_name: "GitHub Dark"
+          - theme: gitlab
+            filename: pacman-contribution-graph-gitlab.svg
+            display_name: "GitLab Light"
+          - theme: gitlab-dark
+            filename: pacman-contribution-graph-gitlab-dark.svg
+            display_name: "GitLab Dark"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Generate Pacman SVG with retry logic
+      - name: Generate ${{ matrix.display_name }} Pacman SVG
+        id: generate
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ env.GITHUB_USER }}
+          outputs: ${{ matrix.filename }}
+          theme: ${{ matrix.theme }}
+        timeout-minutes: 5
+        continue-on-error: true
+
+      # Retry on failure
+      - name: Retry generation if failed
+        if: steps.generate.outcome == 'failure'
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ env.GITHUB_USER }}
+          outputs: ${{ matrix.filename }}
+          theme: ${{ matrix.theme }}
+        timeout-minutes: 5
+
+      # Verify generated file
+      - name: Verify SVG generated
+        run: |
+          if [ -f "dist/${{ matrix.filename }}" ]; then
+            echo "✅ ${{ matrix.display_name }} SVG generated successfully"
+            ls -la dist/${{ matrix.filename }}
+          else
+            echo "❌ Failed to generate ${{ matrix.display_name }} SVG"
+            exit 1
+          fi
+
+      # Upload individual theme artifact
+      - name: Upload ${{ matrix.display_name }} artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pacman-${{ matrix.theme }}
+          path: dist/${{ matrix.filename }}
+          retention-days: 30
+
+  # Combine all themes and deploy
+  deploy:
+    name: Deploy All Themes
+    runs-on: ubuntu-latest
+    needs: generate-themes
+    timeout-minutes: 5
 
     permissions:
       contents: write
 
-    environment:
-      name: github-pages
-      url: https://github.com/${{ github.repository }}/tree/output
-
     steps:
-      # Checkout repository for workspace access
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Create dist directory
+        run: mkdir -p dist
 
-      # Generate light theme SVG
-      - name: Generate light theme SVG
-        uses: abozanona/pacman-contribution-graph@main
+      # Download all theme artifacts
+      - name: Download GitHub Light theme
+        uses: actions/download-artifact@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-        timeout-minutes: 5
+          name: pacman-github
+          path: dist/
 
-      # Generate dark theme SVG
-      - name: Generate dark theme SVG
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Download GitHub Dark theme
+        uses: actions/download-artifact@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: pacman-contribution-graph-dark.svg
-          scheme: dark
-        timeout-minutes: 5
+          name: pacman-github-dark
+          path: dist/
 
-      # List generated files for debugging
-      - name: List generated files
-        run: ls -la dist/
+      - name: Download GitLab Light theme
+        uses: actions/download-artifact@v4
+        with:
+          name: pacman-gitlab
+          path: dist/
+        continue-on-error: true
 
-      # Upload artifacts for debugging and backup
-      - name: Upload SVG artifacts
+      - name: Download GitLab Dark theme
+        uses: actions/download-artifact@v4
+        with:
+          name: pacman-gitlab-dark
+          path: dist/
+        continue-on-error: true
+
+      # List all generated files
+      - name: List all generated files
+        run: |
+          echo "📦 Generated Pacman SVGs:"
+          ls -la dist/
+          echo ""
+          echo "🎮 Total files: $(ls -1 dist/*.svg 2>/dev/null | wc -l)"
+
+      # Upload combined artifacts
+      - name: Upload all Pacman artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: pacman-contribution-graphs
+          name: pacman-all-themes
           path: dist/*.svg
           retention-days: 30
 
@@ -71,7 +166,20 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: ./dist
-          force_orphan: true
-          commit_message: "chore: update pacman contribution graphs [skip ci]"
+          keep_files: true
+          force_orphan: false
+          commit_message: "chore: update pacman contribution graphs (4 themes) [skip ci]"
           user_name: "github-actions[bot]"
           user_email: "github-actions[bot]@users.noreply.github.com"
+
+      - name: Summary
+        run: |
+          echo "## 🎮 Pacman Contribution Graph Generation Complete!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Generated Themes:" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ GitHub Light" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ GitHub Dark" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ GitLab Light" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ GitLab Dark" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Files deployed to \`output\` branch" >> $GITHUB_STEP_SUMMARY
