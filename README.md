@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Vicky+Mosafan;Fullstack+Developer;Prompting+Engineer;AI+Coding+Agent+Specialist" alt="Typing SVG" />
-
-<br/>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=vickyymosafan&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vickyymosafan&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
@@ -48,7 +45,7 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 </td>
 <td width="50%" align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vickyymosafan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vickyymosafan&theme=tokyonight" alt="Profile Summary"/>
 
 </td>
 </tr>
@@ -68,7 +65,7 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 ### ✍️ Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&theme=tokyonight&hide_border=true&layout=donut&langs_count=6)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vickyymosafan&theme=tokyonight" alt="Repos per Language"/>
 
 <br/>
 
@@ -202,51 +199,6 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 <div align="center">
 
-## ⚡ GitHub Analytics
-
-<img src="https://github-widgetbox.vercel.app/api/profile?username=vickyymosafan&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=vickyymosafan&theme=algolia&no-frame=true&no-bg=true&column=-1&margin-w=4" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Contribution Stats
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vickyymosafan&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak"/>
-
-</td>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vickyymosafan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&custom_title=📈%20GitHub%20Stats" alt="GitHub Stats"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Watch the Snake Eat My Contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake.svg" />
@@ -255,51 +207,14 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 </div>
 
----
-
 <div align="center">
-
-## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vickyymosafan&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&custom_title=📊%20Contribution%20Activity" alt="Activity Graph"/>
 
 </div>
 
----
-
 <div align="center">
-
-## 🎯 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vickyymosafan&theme=tokyonight" alt="Profile Summary"/>
-
-<table>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vickyymosafan&theme=tokyonight" alt="Repos per Language"/>
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vickyymosafan&theme=tokyonight" alt="Most Commit Language"/>
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vickyymosafan&theme=tokyonight" alt="Stats"/>
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vickyymosafan&theme=tokyonight&utcOffset=7" alt="Productive Time"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
-
----
