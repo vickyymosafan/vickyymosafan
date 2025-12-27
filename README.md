@@ -209,7 +209,7 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vickyymosafan&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&custom_title=📊%20Contribution%20Activity" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vickyymosafan&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
