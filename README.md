@@ -200,11 +200,29 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 ---
 
-## 📈 Contribution Graph
+## 🎮 GitHub Stats & Achievements
 
 <div align="center">
 
-![3D Profile Night Rainbow](./profile-3d-contrib/profile-gitblock.svg)
+### 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vickyymosafan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vickyymosafan&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake.svg" />
+</picture>
 
 </div>
 
