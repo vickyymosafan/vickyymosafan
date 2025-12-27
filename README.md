@@ -40,7 +40,7 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 <tr>
 <td width="50%" align="center">
 
-<img src="./github-metrics.svg" alt="GitHub Metrics"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=vickyymosafan&theme=tokyonight&hide_border=true)
 
 </td>
 <td width="50%" align="center">
@@ -199,24 +199,13 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 <div align="center">
 
-## 🏙️ 3D Contribution City
+## 🐍 Contribution Snake
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City"/>
-
-<details>
-<summary>🎮 More City Themes (click to expand)</summary>
-
-<br/>
-
-| 🧱 GitBlock (Minecraft) | 🌲 Green Forest |
-|:-----------------------:|:---------------:|
-| <img src="./profile-3d-contrib/profile-gitblock.svg" width="400"/> | <img src="./profile-3d-contrib/profile-green.svg" width="400"/> |
-
-| 🌸 Seasonal | 🌃 Night View |
-|:-----------:|:-------------:|
-| <img src="./profile-3d-contrib/profile-season.svg" width="400"/> | <img src="./profile-3d-contrib/profile-night-view.svg" width="400"/> |
-
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-snake.svg" />
+</picture>
 
 </div>
 
