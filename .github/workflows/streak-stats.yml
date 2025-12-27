@@ -31,15 +31,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create dist directory
-        run: mkdir -p dist
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
-      # Fetch traditional streak stats SVG from DenverCoder1's service
-      - name: Fetch Streak Stats SVG
-        run: |
-          curl -sSL "https://streak-stats.demolab.com?user=vickyymosafan&theme=tokyonight&hide_border=true" -o dist/github-streak.svg
-          echo "✅ Downloaded streak stats SVG"
-          ls -la dist/
+      - name: Generate Streak Stats SVG
+        run: node .github/scripts/generate-streak.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+          OUTPUT_DIR: dist
+
+      - name: List generated files
+        run: ls -la dist/
 
       # Upload artifacts for backup
       - name: Upload artifacts
