@@ -1,4 +1,4 @@
-name: Generate GitHub Metrics & Streak Stats
+name: Generate GitHub Streak Stats
 
 on:
   # Run every 12 hours
@@ -20,83 +20,43 @@ concurrency:
 
 jobs:
   generate:
-    name: Generate Metrics
+    name: Generate Streak Stats
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     permissions:
       contents: write
 
-    environment:
-      name: github-metrics
-      url: https://github.com/${{ github.repository }}/tree/output
-
     steps:
-      # Generate Isometric Calendar with Streak Stats
-      - name: Generate Streak Stats (Isometric Calendar)
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-streak.svg
-          
-          # Output configuration
-          output_action: commit
-          committer_branch: output
-          committer_message: "chore: update github streak stats [skip ci]"
-          
-          # User configuration
-          user: vickyymosafan
-          
-          # Base configuration - minimal for streak focus
-          base: ""
-          
-          # Isometric Calendar Plugin (shows streak)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          
-          # Timezone
-          config_timezone: Asia/Jakarta
-          
-          # Theme - Tokyo Night compatible colors
-          config_display: large
-          config_padding: 5%
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      # Generate Full Stats Overview
-      - name: Generate Full Profile Stats
-        uses: lowlighter/metrics@latest
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      # Fetch traditional streak stats SVG from DenverCoder1's service
+      - name: Fetch Streak Stats SVG
+        run: |
+          curl -sSL "https://streak-stats.demolab.com?user=vickyymosafan&theme=tokyonight&hide_border=true" -o dist/github-streak.svg
+          echo "✅ Downloaded streak stats SVG"
+          ls -la dist/
+
+      # Upload artifacts for backup
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-stats.svg
-          
-          output_action: commit
-          committer_branch: output
-          committer_message: "chore: update github stats [skip ci]"
-          
-          user: vickyymosafan
-          
-          # Enable comprehensive stats
-          base: header, activity, community, repositories
-          base_indepth: yes
-          
-          # Contributions calendar
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          
-          # Languages
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_limit: 8
-          
-          # Habits
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
-          
-          config_timezone: Asia/Jakarta
-          config_display: large
+          name: streak-stats
+          path: dist/*.svg
+          retention-days: 30
+
+      # Deploy to output branch
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          keep_files: true
+          commit_message: "chore: update streak stats [skip ci]"
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
