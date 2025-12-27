@@ -40,7 +40,7 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 <tr>
 <td width="50%" align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vickyymosafan&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-streak.svg)
 
 </td>
 <td width="50%" align="center">
