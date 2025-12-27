@@ -215,6 +215,8 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 </div>
 
+</br>
+
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
