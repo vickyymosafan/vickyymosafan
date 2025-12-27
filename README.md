@@ -4,7 +4,13 @@
 <tr>
 <td width="50%" align="center">
 
-## Hi 👋 I'm vickymosafan, a fullstack developer.
+## Hi 👋 I'm vickymosafan
+
+I am a Fullstack Developer who also works as a Prompting Engineer and leverages AI coding agents to speed up development. I apply an engineering approach from the start of every project. I create PRDs and technical documentation using structured prompts. This helps me define system architecture, workflows, and functional requirements with clarity.
+
+I use AI coding agents to generate boilerplate, analyze errors, and accelerate iterations. I combine this with strong development principles. I build clean, modular, and maintainable codebases. On the backend I focus on efficient architecture, API security, and database performance. On the frontend I focus on reusable components and consistent structures.
+
+I follow SOLID, DRY, KISS, and modular design principles to keep the application efficient and scalable. For me, clear documentation, strong code structure, and thoughtful design form the foundation of fast, secure, and future ready applications.
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Tech Stack Animation" width="250"/>
 
 </td>
@@ -68,9 +74,9 @@
 | End                                                                  | Stack                                                                                                                                                                                                                                                                                                                       |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![React](https://img.shields.io/badge/-React-1d365d?style=flat&logo=react&logoColor=white) ![Nextjs](https://img.shields.io/badge/-Next.js-0170fe?style=flat&logo=next.js) ![Vuejs](https://img.shields.io/badge/-Vue.js-1d365d?style=flat&logo=vue.js) ![Typescript](https://img.shields.io/badge/-Typescript-1539d5?style=flat&logo=typescript) |
-| ![Backend](https://img.shields.io/badge/-Backend-black?style=flat)   | ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-white?style=flat&logo=express) ![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat&logo=laravel)                                                                                                                                                                  |
+| ![Backend](https://img.shields.io/badge/-Backend-black?style=flat)   | ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-white?style=flat&logo=express) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat&logo=laravel)                                                                                                                                                                  |
 | ![Database](https://img.shields.io/badge/-Database-black?style=flat)     | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat&logo=postgresql)  ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql)  ![mongoDB](https://img.shields.io/badge/-mongoDB-white?style=flat&logo=mongodb)                                                                                                                                                                   |
-| ![IDE](https://img.shields.io/badge/-IDE-black?style=flat)           | ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode)                                                 |
+| ![IDE](https://img.shields.io/badge/-IDE-black?style=flat)           | ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white) ![Windsurf](https://img.shields.io/badge/-Windsurf-09B6A2?style=flat&logo=codeium&logoColor=white) ![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?style=flat&logo=google&logoColor=white) ![Kiro](https://img.shields.io/badge/-Kiro-FF9900?style=flat&logo=amazonwebservices&logoColor=white)                                                 |
 | ![Workflow](https://img.shields.io/badge/-Other-black?style=flat)           | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)                                                                                           |
 
 </div>
