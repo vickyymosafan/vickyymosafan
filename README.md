@@ -108,28 +108,35 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 <div align="center">
 
-### 🤖 AI & Full Stack Applications
+### 💻 Full Stack Applications
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 <a href="https://github.com/vickyymosafan/ai-smartchat">
-<img src="https://img.shields.io/badge/AI_SmartChat-0A66C2?style=for-the-badge&logo=openai&logoColor=white" alt="AI SmartChat"/>
+<img src="https://img.shields.io/badge/AI_SmartChat-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="AI SmartChat"/>
 </a>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 <a href="https://github.com/vickyymosafan/antosa-architect">
-<img src="https://img.shields.io/badge/Antosa_Architect-FF6B35?style=for-the-badge&logo=figma&logoColor=white" alt="Antosa Architect"/>
+<img src="https://img.shields.io/badge/Antosa_Architect-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Antosa Architect"/>
 </a>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 <a href="https://github.com/vickyymosafan/system-pemerintahan">
-<img src="https://img.shields.io/badge/System_Pemerintahan-1E40AF?style=for-the-badge&logo=buffer&logoColor=white" alt="System Pemerintahan"/>
+<img src="https://img.shields.io/badge/System_Pemerintahan-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="System Pemerintahan"/>
+</a>
+
+</td>
+<td align="center" width="25%">
+
+<a href="https://github.com/vickyymosafan/unfollowscan">
+<img src="https://img.shields.io/badge/UnfollowScan-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="UnfollowScan"/>
 </a>
 
 </td>
@@ -142,17 +149,24 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 <a href="https://github.com/vickyymosafan/be_posyandu-digital">
-<img src="https://img.shields.io/badge/BE_Posyandu_Digital-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="BE Posyandu Digital"/>
+<img src="https://img.shields.io/badge/BE_Posyandu_Digital-000000?style=for-the-badge&logo=express&logoColor=white" alt="BE Posyandu Digital"/>
 </a>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 <a href="https://github.com/vickyymosafan/BE_playlist-downloader">
-<img src="https://img.shields.io/badge/BE_Playlist_Downloader-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="BE Playlist Downloader"/>
+<img src="https://img.shields.io/badge/BE_Playlist_Downloader-000000?style=for-the-badge&logo=express&logoColor=white" alt="BE Playlist Downloader"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+
+<a href="https://github.com/vickyymosafan/BE_POS-PT.IndoAugust">
+<img src="https://img.shields.io/badge/BE_POS_IndoAugust-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="BE POS IndoAugust"/>
 </a>
 
 </td>
@@ -161,21 +175,14 @@ I use AI coding agents to generate boilerplate, analyze errors, and accelerate i
 
 ---
 
-### 🎨 Frontend & Tools
+### 🎨 Frontend
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 <a href="https://github.com/vickyymosafan/fe_pencatatan-posyandu">
-<img src="https://img.shields.io/badge/FE_Pencatatan_Posyandu-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="FE Pencatatan Posyandu"/>
-</a>
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://github.com/vickyymosafan/unfollowscan">
-<img src="https://img.shields.io/badge/UnfollowScan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="UnfollowScan"/>
+<img src="https://img.shields.io/badge/FE_Pencatatan_Posyandu-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="FE Pencatatan Posyandu"/>
 </a>
 
 </td>
