@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #c0caf5; }
+    .stat { font: 700 28px 'Segoe UI', Ubuntu, sans-serif; fill: #a9b1d6; }
+    .label { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #a9b1d6; opacity: 0.8; }
+    .date { font: 400 10px 'Segoe UI', Ubuntu, sans-serif; fill: #a9b1d6; opacity: 0.6; }
+    .fire { font: 24px sans-serif; }
+  </style>
+  
+  <!-- Background -->
+  <rect width="495" height="195" rx="6" fill="#1a1b27"/>
+  
+  <!-- Border -->
+  <rect x="0.5" y="0.5" width="494" height="194" rx="6" fill="none" stroke="#414868" stroke-width="1"/>
+  
+  <!-- Title -->
+  <text x="247.5" y="30" class="title" text-anchor="middle">GitHub Streak Stats</text>
+  
+  <!-- Left Column: Total Contributions -->
+  <g transform="translate(82.5, 100)">
+    <text x="0" y="-15" class="stat" text-anchor="middle">1168</text>
+    <text x="0" y="10" class="label" text-anchor="middle">Total Contributions</text>
+    <text x="0" y="30" class="date" text-anchor="middle">Jun 17, 2016 - Present</text>
+  </g>
+  
+  <!-- Center Column: Current Streak with Ring -->
+  <g transform="translate(247.5, 100)">
+    <!-- Background Ring -->
+    <circle cx="0" cy="-5" r="40" fill="none" stroke="#414868" stroke-width="6"/>
+    
+    <!-- Progress Ring -->
+    <circle cx="0" cy="-5" r="40" fill="none" stroke="#9ece6a" stroke-width="6"
+      stroke-dasharray="251.32741228718345" stroke-dashoffset="251.32741228718345"
+      stroke-linecap="round" transform="rotate(-90 0 -5)"/>
+    
+    <!-- Streak Number -->
+    <text x="0" y="3" class="stat" text-anchor="middle">0</text>
+    
+    <!-- Fire Emoji (only if streak > 0) -->
+    
+    
+    <!-- Label -->
+    <text x="0" y="55" class="label" text-anchor="middle">Current Streak</text>
+    <text x="0" y="75" class="date" text-anchor="middle">N/A - N/A</text>
+  </g>
+  
+  <!-- Right Column: Longest Streak -->
+  <g transform="translate(412.5, 100)">
+    <text x="0" y="-15" class="stat" text-anchor="middle">97</text>
+    <text x="0" y="10" class="label" text-anchor="middle">Longest Streak</text>
+    <text x="0" y="30" class="date" text-anchor="middle">Oct 26, 2025 - Jan 30, 2026</text>
+  </g>
+</svg>
