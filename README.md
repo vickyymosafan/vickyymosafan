@@ -1,163 +1,151 @@
 <div align="center">
 
-<img src="./assets/hero-banner.jpg" alt="M. Vicky Mosafan - Fullstack Systems & Prompt Engineering" width="100%" style="border-radius: 12px; max-width: 920px;" />
+<img src="./assets/hero-banner.jpg" alt="M. Vicky Mosafan - AI Augmented Engineer" width="520" style="border-radius: 8px; max-width: 100%; height: auto;" />
 
-<br/>
-<br/>
+# M. Vicky Mosafan
+### Fullstack Developer & Prompt Engineer | AI Augmented Engineering
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vickyymosafan&label=Profile%20Views&color=70a5fd&style=flat-square)](https://github.com/vickyymosafan)
-[![Specialization](https://img.shields.io/badge/Specialization-AI%20Augmented%20Engineering-9ece6a?style=flat-square&logo=codeforces&logoColor=white)](https://github.com/vickyymosafan)
-[![Stack](https://img.shields.io/badge/Ecosystem-TypeScript%20%7C%20React%20%7C%20Node%20%7C%20Laravel-7aa2f7?style=flat-square&logo=diagram-next&logoColor=white)](https://github.com/vickyymosafan)
-[![Location](https://img.shields.io/badge/Location-Jember%2C%20Indonesia-ff9e64?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/vickyymosafan)
+[![Specialization](https://img.shields.io/badge/Specialization-AI%20Augmented%20Engineering-9ece6a?style=flat-square)](https://github.com/vickyymosafan)
+[![Ecosystem](https://img.shields.io/badge/Stack-TypeScript%20%7C%20React%20%7C%20Node%20%7C%20Laravel-7aa2f7?style=flat-square)](https://github.com/vickyymosafan)
+[![Location](https://img.shields.io/badge/Location-Surabaya%20%2F%20Jember%2C%20ID-ff9e64?style=flat-square)](https://github.com/vickyymosafan)
 
 </div>
 
 ---
 
-### ⚡ System Architecture & AI Augmented Engineering
+## 📖 Chapter 01: The Paradigm
+
+> **"Engineering is not replaced by AI. It is amplified by it."**
+
+I am a **Fullstack Developer & Prompt Engineer specializing in AI Augmented Engineering**. I leverage AI across the entire software development lifecycle to improve speed, quality, and decision-making, from planning and architecture to implementation and deployment.
+
+Before writing a single line of implementation, I create structured PRDs, technical documentation, and system designs to ensure a strong foundation before development. During execution, I use AI to accelerate coding, analyze issues, enhance documentation, and streamline testing and iteration.
+
+My core discipline stays grounded in software craftsmanship:
+* **Architectural Principles**: Strict adherence to SOLID, DRY, and KISS for clean, modular, and scalable software architecture.
+* **Backend Architecture**: API security, database performance, microservices, and reliable data pipelines.
+* **Frontend Engineering**: Reusable component design, atomic design systems, and responsive performance.
+* **Core Vision**: Combining rigorous engineering practices with AI to deliver efficient, secure, and future-ready applications.
+
+---
+
+## 🏛️ Chapter 02: The Architectural Blueprint
+
+To achieve high velocity without technical debt, every build follows an AI-augmented engineering pipeline:
 
 <div align="center">
 
-<img src="./assets/system-architecture.jpg" alt="Fullstack System Architecture and AI-orchestrated code workflows" width="100%" style="border-radius: 10px; max-width: 880px;" />
+<img src="./assets/system-architecture.jpg" alt="Fullstack System Architecture and AI-orchestrated code workflows" width="560" style="border-radius: 8px; max-width: 100%; height: auto;" />
+
+<br/>
+<sub><em>Figure 1.0: End-to-end fullstack architecture integrated with structured AI prompting pipelines.</em></sub>
 
 </div>
 
-> **I am a Fullstack Developer & Prompt Engineer specializing in AI Augmented Engineering.**
-
-I leverage AI across the entire software development lifecycle to improve speed, quality, and decision-making, from planning and architecture to implementation and deployment.
-
-I create structured PRDs, technical documentation, and system designs to ensure a strong foundation before development, and I use AI to accelerate coding, analyze issues, enhance documentation, and streamline testing and iteration.
-
-* **Engineering Practices**: SOLID, DRY, and KISS principles for clean, modular, and scalable software architecture.
-* **Backend Architecture**: API security, database performance, microservices, and reliable data pipelines.
-* **Frontend Engineering**: Reusable component design, atomic design systems, and responsive performance.
-* **Vision**: Passionate about combining rigorous software engineering with AI to deliver efficient, secure, and future-ready applications.
+1. **Specification & PRD**: Structured prompts define requirements, state boundaries, and API contracts before coding.
+2. **Modular Architecture**: Decoupled backend microservices, clean database schemas, and atomic frontend components.
+3. **Agentic Acceleration**: AI coding agents handle rapid code generation, edge-case analysis, and testing loops.
+4. **Deterministic Hardening**: Rigorous code review, static typing, and schema verification before production deployment.
 
 ---
 
-### 🚀 Flagship Applications & Engineering Solutions
+## ⚡ Chapter 03: The Artifacts (Flagship Systems)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Here is how this methodology translates into real, high-impact production applications:
 
-#### 🏛️ [system-pemerintahan](https://github.com/vickyymosafan/system-pemerintahan)
-Modern e-government platform designed for civic document submission and public announcements. Built with a monolithic yet decoupled structure ensuring data integrity and frictionless UX.
+### 🏛️ Civic & Institutional Platforms
 
+#### 1. [system-pemerintahan](https://github.com/vickyymosafan/system-pemerintahan)
+* **The Challenge**: Managing complex civic document workflows and public government announcements with high security and reliability.
+* **Engineering**: Monolithic yet decoupled architecture utilizing Laravel with Inertia.js and React TypeScript for seamless single-page application performance without API boilerplate.
 * **Stack**: `Laravel` • `Inertia.js` • `React` • `TypeScript` • `MySQL`
-* **Highlights**: Type-safe Inertia routing, role-based access control, responsive public portal.
+* **Key Features**: Type-safe Inertia routing, role-based access control, responsive public portal.
 
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 [FullStack_ai-smartchat](https://github.com/vickyymosafan/FullStack_ai-smartchat)
-Intelligent campus assistant for Universitas Muhammadiyah Jember featuring Retrieval-Augmented Generation (RAG) and instant onboarding.
-
+#### 2. [FullStack_ai-smartchat](https://github.com/vickyymosafan/FullStack_ai-smartchat)
+* **The Challenge**: Delivering instant, accurate university intelligence for Universitas Muhammadiyah Jember.
+* **Engineering**: Retrieval-Augmented Generation (RAG) coupled with Supabase Vector, voice speech recognition, and an installable PWA for campus mobile access.
 * **Stack**: `Next.js` • `TypeScript` • `Supabase Vector` • `Radix UI` • `PWA`
-* **Highlights**: Real-time RAG context retrieval, Web Speech API integration, offline-capable PWA.
+* **Key Features**: Real-time RAG context retrieval, Web Speech API integration, offline-capable PWA.
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" valign="top">
+### 📈 Intelligent Financial & Client-Side Systems
 
-#### 📈 [auto-analysis-market](https://github.com/vickyymosafan/auto-analysis-market)
-Financial analysis application leveraging Google Gemini vision models to interpret candlestick chart patterns and provide actionable technical strategies.
-
+#### 3. [auto-analysis-market](https://github.com/vickyymosafan/auto-analysis-market)
+* **The Challenge**: Eliminating latency and emotional bias in technical market chart analysis.
+* **Engineering**: Multimodal vision reasoning using Google Gemini API to scan candlestick charts, calculate technical indicators, and produce structured trade setups.
 * **Stack**: `React` • `Vite` • `TypeScript` • `Google Gemini API` • `TailwindCSS`
-* **Highlights**: Multimodal chart recognition, automated risk-to-reward calculation, zero server latency.
+* **Key Features**: Multimodal chart recognition, automated risk-to-reward calculation, zero server latency.
 
-</td>
-<td width="50%" valign="top">
-
-#### 🔍 [unfollowscan](https://github.com/vickyymosafan/unfollowscan)
-Privacy-first Instagram follower analytics application. All parsing, graph comparison, and mutual friend detection happen 100% client-side in the user's browser.
-
+#### 4. [unfollowscan](https://github.com/vickyymosafan/unfollowscan)
+* **The Challenge**: Analyzing social graphs without compromising user credentials or privacy.
+* **Engineering**: 100% client-side stream parsing of data packages entirely inside browser memory, ensuring zero data leaves the client.
 * **Stack**: `Next.js` • `TypeScript` • `React` • `TailwindCSS`
-* **Highlights**: Zero credential exposure, client-side ZIP/JSON stream processing, high memory efficiency.
+* **Key Features**: Zero credential exposure, client-side ZIP/JSON stream processing, high memory efficiency.
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🖼️ [imageconverter](https://github.com/vickyymosafan/imageconverter)
-Client-side image conversion utility delivering high-definition conversions across WebP, PNG, JPEG, GIF, and BMP formats without uploading sensitive files to external servers.
-
+#### 5. [imageconverter](https://github.com/vickyymosafan/imageconverter)
+* **The Challenge**: Fast, lossless image batch conversion without third-party server upload limits.
+* **Engineering**: In-browser Canvas API processing supporting WebP, PNG, JPEG, GIF, and BMP with real-time compression preview.
 * **Stack**: `React` • `Vite` • `TypeScript` • `Canvas API` • `PWA`
-* **Highlights**: Drag-and-drop batch queue, real-time compression preview, client-side memory safety.
+* **Key Features**: Drag-and-drop batch queue, real-time compression preview, client-side memory safety.
 
-</td>
-<td width="50%" valign="top">
+---
 
-#### 🏥 [fe_pencatatan-posyandu](https://github.com/vickyymosafan/fe_pencatatan-posyandu) & [be](https://github.com/vickyymosafan/be_pencatatan-posyandu)
-Integrated digital healthcare records system for elderly health monitoring (Posyandu Lansia) with automated health index calculations and QR verification.
+### 🏥 Healthcare & Core Backend Services
 
+#### 6. [fe_pencatatan-posyandu](https://github.com/vickyymosafan/fe_pencatatan-posyandu) & [be_pencatatan-posyandu](https://github.com/vickyymosafan/be_pencatatan-posyandu)
+* **The Challenge**: Modernizing health index records for elderly community care (Posyandu Lansia).
+* **Engineering**: QR-code patient verification with normalized PostgreSQL relational schemas via Prisma ORM and Next.js 14 dashboards.
 * **Stack**: `Next.js 14` • `Express` • `Prisma ORM` • `PostgreSQL` • `TypeScript`
-* **Highlights**: QR-code patient check-in, automated health parameter reports, normalized database schema.
-
-</td>
-</tr>
-</table>
+* **Key Features**: QR-code patient check-in, automated health parameter reports, normalized schema.
 
 <details>
 <summary><b>📂 Explore More Specialized Projects</b></summary>
 <br/>
 
-* **[antosa-architect](https://github.com/vickyymosafan/antosa-architect)**: Architecture firm portfolio & client consultation portal developed with a custom PHP MVC architecture.
-* **[BE_playlist-downloader](https://github.com/vickyymosafan/BE_playlist-downloader)**: Media conversion service powered by Express, yt-dlp, and FFmpeg for high-throughput batch downloads.
+* **[antosa-architect](https://github.com/vickyymosafan/antosa-architect)**: Architectural firm portfolio with custom PHP MVC framework for client consultation.
+* **[BE_playlist-downloader](https://github.com/vickyymosafan/BE_playlist-downloader)**: High-concurrency media processing backend using Express, yt-dlp, and FFmpeg for playlist batch conversions.
 * **[BE_POS-PT.IndoAugust](https://github.com/vickyymosafan/BE_POS-PT.IndoAugust)**: Enterprise Point of Sale backend built with NestJS, TypeScript, and clean hexagonal architecture.
 
 </details>
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🛠️ Chapter 04: The Technical Arsenal
 
-<div align="center">
+Organized across key architectural domains:
 
-| Domain | Technologies & Tooling |
-|:---|:---|
-| **Core Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frontend Frameworks** | ![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white) |
-| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST-Architecture-00599C?style=flat-square) |
-| **Databases & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
-| **AI Tooling & Environments** | ![Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-09B6A2?style=flat-square&logo=codeium&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Structured%20PRD-9ece6a?style=flat-square) |
-| **DevOps & Workflow** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-
-</div>
+| Domain | Core Technologies & Tooling |
+| :--- | :--- |
+| **Languages** | `TypeScript` • `JavaScript` • `PHP` • `Python` • `SQL` • `HTML5` • `CSS3` |
+| **Frontend Ecosystem** | `React 19` • `Next.js 15` • `Vue.js` • `TailwindCSS` • `Inertia.js` • `Radix UI` |
+| **Backend & Microservices** | `Node.js` • `NestJS` • `Express` • `Laravel` • `RESTful APIs` |
+| **Databases & Storage** | `PostgreSQL` • `MySQL` • `MongoDB` • `Supabase Vector` • `Prisma ORM` |
+| **AI Augmented Tooling** | `Google Antigravity` • `Cursor` • `Windsurf` • `Gemini API` • `Deterministic PRD Prompting` |
+| **DevOps & Infrastructure** | `Git` • `GitHub Actions CI/CD` • `Docker` • `Linux` • `Vite` |
 
 ---
 
-### 📊 Live Telemetry & GitHub Performance
+## 📊 Chapter 05: Continuous Telemetry & Live Activity
 
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
-<td width="50%" align="center">
-
-<img src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-streak.svg" alt="GitHub Streak Stats" width="100%" />
-
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/github-streak.svg" alt="GitHub Streak Stats" width="380" />
 </td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vickyymosafan&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&icon_color=9ece6a&bg_color=1a1b27" alt="GitHub Overall Stats" width="100%" />
-
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=vickyymosafan&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&icon_color=9ece6a&bg_color=1a1b27" alt="GitHub Stats" width="380" />
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&bg_color=1a1b27" alt="Top Languages" width="100%" />
-
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyymosafan&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&bg_color=1a1b27" alt="Top Languages" width="380" />
 </td>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vickyymosafan&theme=tokyonight" alt="Profile Summary Card" width="100%" />
-
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vickyymosafan&theme=tokyonight" alt="Profile Summary" width="380" />
 </td>
 </tr>
 </table>
@@ -167,31 +155,32 @@ Integrated digital healthcare records system for elderly health monitoring (Posy
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/pacman-contribution-graph.svg" width="100%">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/vickyymosafan/vickyymosafan/output/pacman-contribution-graph.svg" width="620">
 </picture>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vickyymosafan&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vickyymosafan&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true" alt="Contribution Activity Graph" width="620" />
 
 </div>
 
 ---
 
+## ⚡ Epilogue: Let's Build Together
+
 <div align="center">
 
 ```typescript
-const vickyMosafan: DeveloperProfile = {
-  name: "M. Vicky Mosafan",
-  role: "Fullstack Developer & Prompt Engineer",
-  specialization: "AI Augmented Engineering",
-  architecturePrinciples: ["SOLID", "DRY", "KISS", "Modular Design"],
-  currentMission: "Delivering efficient, secure, and future-ready applications across the full SDLC",
-  status: "Open for collaboration & architectural challenges"
-};
+interface AI_Augmented_Engineer {
+  name: "M. Vicky Mosafan";
+  focus: "Fullstack Architecture x AI Velocity";
+  coreRules: ["SOLID", "DRY", "KISS", "Spec-Driven PRDs"];
+  currentMission: "Building resilient software powered by intelligent agentic workflows";
+  status: "Available for high-impact engineering challenges";
+}
 ```
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-vickyymosafan-181717?style=flat-square&logo=github)](https://github.com/vickyymosafan)
-[![Email Contact](https://img.shields.io/badge/Contact-Get%20in%20Touch-70a5fd?style=flat-square&logo=gmail&logoColor=white)](mailto:vickymosafan@gmail.com)
+[![Email Contact](https://img.shields.io/badge/Email-vickymosafan%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white)](mailto:vickymosafan@gmail.com)
 
 </div>
