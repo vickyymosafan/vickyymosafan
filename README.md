@@ -36,17 +36,19 @@ To achieve high velocity without technical debt, every build follows an AI-augme
 
 <div align="center">
 
-<img src="./assets/system-architecture.jpg" alt="Fullstack System Architecture and AI-orchestrated code workflows" width="560" style="border-radius: 8px; max-width: 100%; height: auto;" />
+<img src="./assets/system-architecture.svg" alt="AI Augmented Fullstack Engineering Workflow Diagram" width="820" style="border-radius: 8px; max-width: 100%; height: auto;" />
 
 <br/>
-<sub><em>Figure 1.0: End-to-end fullstack architecture integrated with structured AI prompting pipelines.</em></sub>
+<sub><em>Figure 1.0: End-to-end 4-stage AI Augmented Fullstack Engineering Pipeline.</em></sub>
 
 </div>
 
-1. **Specification & PRD**: Structured prompts define requirements, state boundaries, and API contracts before coding.
-2. **Modular Architecture**: Decoupled backend microservices, clean database schemas, and atomic frontend components.
-3. **Agentic Acceleration**: AI coding agents handle rapid code generation, edge-case analysis, and testing loops.
-4. **Deterministic Hardening**: Rigorous code review, static typing, and schema verification before production deployment.
+| Stage | Process | Core Output & Tooling |
+| :--- | :--- | :--- |
+| **01. PRD & Spec** | Structured context engineering, user stories, and acceptance criteria | Deterministic PRD, clear API contracts, and state boundaries |
+| **02. Architecture** | Modular backend microservices, database schemas, and frontend UI | Decoupled Node/Laravel services, PostgreSQL/MySQL schemas, React/Next.js |
+| **03. Agentic Loops** | AI-assisted code scaffolding, instant unit tests, and iterative refactoring | Antigravity, Cursor, Windsurf, automated test runners (Jest, Pytest) |
+| **04. Deploy & Ops** | Automated verification, containerization, and live telemetry | GitHub Actions CI/CD, Docker clusters, cloud hosting, and health monitoring |
 
 ---
 

@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="100%" height="100%" style="background:#0d1117;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+  <defs>
+    <linearGradient id="grad-cyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#70a5fd" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+    <linearGradient id="grad-green" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9ece6a" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+    <linearGradient id="grad-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#bb9af7" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+    <linearGradient id="grad-amber" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff9e64" />
+      <stop offset="100%" stop-color="#fb923c" />
+    </linearGradient>
+
+    <marker id="arrow-cyan" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#70a5fd"/>
+    </marker>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#9ece6a"/>
+    </marker>
+    <marker id="arrow-purple" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#bb9af7"/>
+    </marker>
+  </defs>
+
+  <!-- Title Header Inside SVG -->
+  <text x="600" y="38" text-anchor="middle" fill="#c0caf5" font-size="18" font-weight="700" letter-spacing="0.5">AI AUGMENTED FULLSTACK ENGINEERING WORKFLOW</text>
+  <text x="600" y="58" text-anchor="middle" fill="#7aa2f7" font-size="12" font-weight="500">Deterministic Specifications • Clean Architecture • Agentic Iteration • Automated CI/CD</text>
+
+  <!-- Connectors -->
+  <path d="M 285 265 L 320 265" stroke="#70a5fd" stroke-width="2.5" stroke-dasharray="4,4" marker-end="url(#arrow-cyan)" />
+  <path d="M 575 265 L 610 265" stroke="#9ece6a" stroke-width="2.5" stroke-dasharray="4,4" marker-end="url(#arrow-green)" />
+  <path d="M 865 265 L 900 265" stroke="#bb9af7" stroke-width="2.5" stroke-dasharray="4,4" marker-end="url(#arrow-purple)" />
+
+  <!-- ==================== CARD 1: SPEC & PRD ==================== -->
+  <g transform="translate(30, 80)">
+    <rect width="255" height="370" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <rect width="255" height="48" rx="12" fill="#1f242c"/>
+    <rect y="36" width="255" height="12" fill="#1f242c"/>
+    
+    <!-- Header Badge -->
+    <rect x="14" y="12" width="26" height="24" rx="6" fill="#70a5fd" fill-opacity="0.15" stroke="#70a5fd" stroke-width="1"/>
+    <text x="27" y="28" text-anchor="middle" fill="#70a5fd" font-size="11" font-weight="800">01</text>
+    <text x="48" y="28" fill="#f0f6fc" font-size="14" font-weight="700">SPEC &amp; PRD</text>
+
+    <!-- Card Body -->
+    <g transform="translate(14, 60)">
+      <!-- Section 1 -->
+      <rect width="227" height="68" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="14" y="22" fill="#70a5fd" font-size="11" font-weight="700">STRUCTURED PROMPTING</text>
+      <text x="14" y="40" fill="#8b949e" font-size="11">• Deterministic context rules</text>
+      <text x="14" y="56" fill="#8b949e" font-size="11">• Edge cases &amp; acceptance criteria</text>
+
+      <!-- Section 2 -->
+      <rect y="78" width="227" height="68" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="14" y="98" fill="#70a5fd" font-size="11" font-weight="700">SYSTEM BOUNDARIES</text>
+      <text x="14" y="116" fill="#8b949e" font-size="11">• Architecture spec &amp; contracts</text>
+      <text x="14" y="132" fill="#8b949e" font-size="11">• PRD &amp; technical blueprints</text>
+
+      <!-- Section 3 -->
+      <rect y="156" width="227" height="130" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="14" y="176" fill="#7aa2f7" font-size="11" font-weight="700">FOUNDATION CHECKLIST</text>
+      <text x="14" y="198" fill="#c9d1d9" font-size="11">✓ SOLID &amp; DRY compliance</text>
+      <text x="14" y="220" fill="#c9d1d9" font-size="11">✓ State flow &amp; entity diagrams</text>
+      <text x="14" y="242" fill="#c9d1d9" font-size="11">✓ API route schema definition</text>
+      <text x="14" y="264" fill="#3fb950" font-size="11" font-weight="600">→ Ready for Implementation</text>
+    </g>
+  </g>
+
+  <!-- ==================== CARD 2: MODULAR ARCHITECTURE ==================== -->
+  <g transform="translate(320, 80)">
+    <rect width="255" height="370" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <rect width="255" height="48" rx="12" fill="#1f242c"/>
+    <rect y="36" width="255" height="12" fill="#1f242c"/>
+    
+    <!-- Header Badge -->
+    <rect x="14" y="12" width="26" height="24" rx="6" fill="#9ece6a" fill-opacity="0.15" stroke="#9ece6a" stroke-width="1"/>
+    <text x="27" y="28" text-anchor="middle" fill="#9ece6a" font-size="11" font-weight="800">02</text>
+    <text x="48" y="28" fill="#f0f6fc" font-size="14" font-weight="700">ARCHITECTURE</text>
+
+    <!-- Card Body -->
+    <g transform="translate(14, 60)">
+      <!-- Frontend -->
+      <rect width="227" height="58" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="14" y="20" fill="#9ece6a" font-size="11" font-weight="700">MODULAR FRONTEND</text>
+      <text x="14" y="36" fill="#f0f6fc" font-size="11" font-weight="600">React 19 • Next.js 15 • Vue</text>
+      <text x="14" y="50" fill="#8b949e" font-size="10">Atomic components • TailwindCSS • PWA</text>
+
+      <!-- Backend Services -->
+      <rect y="68" width="227" height="86" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="14" y="88" fill="#9ece6a" font-size="11" font-weight="700">CORE BACKEND SERVICES</text>
+      <text x="14" y="106" fill="#f0f6fc" font-size="11" font-weight="600">Laravel • Node.js • NestJS</text>
+      <text x="14" y="122" fill="#8b949e" font-size="10">Express REST APIs • Clean MVC</text>
+      <text x="14" y="138" fill="#e0af68" font-size="10" font-weight="600">Python (RAG &amp; NLP pipelines)</text>
+
+      <!-- Database -->
+      <rect y="164" width="227" height="68" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="14" y="184" fill="#9ece6a" font-size="11" font-weight="700">DATA &amp; PERSISTENCE</text>
+      <text x="14" y="202" fill="#f0f6fc" font-size="11" font-weight="600">PostgreSQL • MySQL • MongoDB</text>
+      <text x="14" y="218" fill="#8b949e" font-size="10">Supabase Vector • Prisma ORM</text>
+
+      <!-- Stack Integrity Tag -->
+      <rect y="242" width="227" height="44" rx="8" fill="#1f242c" stroke="#30363d"/>
+      <text x="113" y="268" text-anchor="middle" fill="#73daca" font-size="11" font-weight="600">Decoupled &amp; Type-Safe</text>
+    </g>
+  </g>
+
+  <!-- ==================== CARD 3: AI AGENTIC LOOPS ==================== -->
+  <g transform="translate(610, 80)">
+    <rect width="255" height="370" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <rect width="255" height="48" rx="12" fill="#1f242c"/>
+    <rect y="36" width="255" height="12" fill="#1f242c"/>
+    
+    <!-- Header Badge -->
+    <rect x="14" y="12" width="26" height="24" rx="6" fill="#bb9af7" fill-opacity="0.15" stroke="#bb9af7" stroke-width="1"/>
+    <text x="27" y="28" text-anchor="middle" fill="#bb9af7" font-size="11" font-weight="800">03</text>
+    <text x="48" y="28" fill="#f0f6fc" font-size="14" font-weight="700">AGENTIC LOOPS</text>
+
+    <!-- Card Body -->
+    <g transform="translate(14, 60)">
+      <!-- Agentic Tooling -->
+      <rect width="227" height="68" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="14" y="20" fill="#bb9af7" font-size="11" font-weight="700">AGENT ORCHESTRATION</text>
+      <text x="14" y="38" fill="#f0f6fc" font-size="11" font-weight="600">Antigravity • Cursor • Windsurf</text>
+      <text x="14" y="54" fill="#8b949e" font-size="10">Spec-guided code scaffolding &amp; diffs</text>
+
+      <!-- Automated Verification -->
+      <rect y="78" width="227" height="68" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="14" y="98" fill="#bb9af7" font-size="11" font-weight="700">CONTINUOUS VERIFICATION</text>
+      <text x="14" y="116" fill="#f0f6fc" font-size="11" font-weight="600">Jest • Pytest • Static Linters</text>
+      <text x="14" y="132" fill="#8b949e" font-size="10">Deterministic test &amp; validation loop</text>
+
+      <!-- Loop Feedback Pill -->
+      <rect y="156" width="227" height="130" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="14" y="176" fill="#bb9af7" font-size="11" font-weight="700">ENGINEERING CYCLE</text>
+      <text x="14" y="198" fill="#c9d1d9" font-size="11">1. Agent generates implementation</text>
+      <text x="14" y="220" fill="#c9d1d9" font-size="11">2. Automated test feedback run</text>
+      <text x="14" y="242" fill="#c9d1d9" font-size="11">3. Strict human engineering review</text>
+      <text x="14" y="264" fill="#bb9af7" font-size="11" font-weight="600">→ High Velocity &amp; Zero Slop</text>
+    </g>
+  </g>
+
+  <!-- ==================== CARD 4: PRODUCTION DEPLOY ==================== -->
+  <g transform="translate(900, 80)">
+    <rect width="255" height="370" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <rect width="255" height="48" rx="12" fill="#1f242c"/>
+    <rect y="36" width="255" height="12" fill="#1f242c"/>
+    
+    <!-- Header Badge -->
+    <rect x="14" y="12" width="26" height="24" rx="6" fill="#ff9e64" fill-opacity="0.15" stroke="#ff9e64" stroke-width="1"/>
+    <text x="27" y="28" text-anchor="middle" fill="#ff9e64" font-size="11" font-weight="800">04</text>
+    <text x="48" y="28" fill="#f0f6fc" font-size="14" font-weight="700">DEPLOY &amp; OPS</text>
+
+    <!-- Card Body -->
+    <g transform="translate(14, 60)">
+      <!-- CI/CD -->
+      <rect width="227" height="68" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="14" y="20" fill="#ff9e64" font-size="11" font-weight="700">AUTOMATED PIPELINE</text>
+      <text x="14" y="38" fill="#f0f6fc" font-size="11" font-weight="600">GitHub Actions • Git CI/CD</text>
+      <text x="14" y="54" fill="#8b949e" font-size="10">Automated build, test &amp; security scans</text>
+
+      <!-- Containers & Cloud -->
+      <rect y="78" width="227" height="68" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="14" y="98" fill="#ff9e64" font-size="11" font-weight="700">CONTAINERIZATION</text>
+      <text x="14" y="116" fill="#f0f6fc" font-size="11" font-weight="600">Docker • Linux Servers • Cloud</text>
+      <text x="14" y="132" fill="#8b949e" font-size="10">Reproducible runtime environments</text>
+
+      <!-- Telemetry -->
+      <rect y="156" width="227" height="130" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="14" y="176" fill="#ff9e64" font-size="11" font-weight="700">OBSERVABILITY</text>
+      <text x="14" y="198" fill="#c9d1d9" font-size="11">• Health check &amp; uptime monitors</text>
+      <text x="14" y="220" fill="#c9d1d9" font-size="11">• Real-time error analytics</text>
+      <text x="14" y="242" fill="#c9d1d9" font-size="11">• Performance &amp; query profiling</text>
+      <text x="14" y="264" fill="#3fb950" font-size="11" font-weight="600">✓ Production Grade Delivery</text>
+    </g>
+  </g>
+</svg>
