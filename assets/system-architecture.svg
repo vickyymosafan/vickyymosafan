@@ -126,7 +126,7 @@
       <!-- Agentic Tooling -->
       <rect width="227" height="68" rx="8" fill="#0d1117" stroke="#21262d"/>
       <text x="14" y="20" fill="#bb9af7" font-size="11" font-weight="700">AGENT ORCHESTRATION</text>
-      <text x="14" y="38" fill="#f0f6fc" font-size="11" font-weight="600">Antigravity • Cursor • Windsurf</text>
+      <text x="14" y="38" fill="#f0f6fc" font-size="11" font-weight="600">Antigravity • Claude Code • Open Code</text>
       <text x="14" y="54" fill="#8b949e" font-size="10">Spec-guided code scaffolding &amp; diffs</text>
 
       <!-- Automated Verification -->
@@ -164,11 +164,11 @@
       <text x="14" y="38" fill="#f0f6fc" font-size="11" font-weight="600">GitHub Actions • Git CI/CD</text>
       <text x="14" y="54" fill="#8b949e" font-size="10">Automated build, test &amp; security scans</text>
 
-      <!-- Containers & Cloud -->
+      <!-- Deploy & Host -->
       <rect y="78" width="227" height="68" rx="8" fill="#0d1117" stroke="#21262d"/>
-      <text x="14" y="98" fill="#ff9e64" font-size="11" font-weight="700">CONTAINERIZATION</text>
-      <text x="14" y="116" fill="#f0f6fc" font-size="11" font-weight="600">Docker • Linux Servers • Cloud</text>
-      <text x="14" y="132" fill="#8b949e" font-size="10">Reproducible runtime environments</text>
+      <text x="14" y="98" fill="#ff9e64" font-size="11" font-weight="700">DEPLOYMENT &amp; HOSTING</text>
+      <text x="14" y="116" fill="#f0f6fc" font-size="11" font-weight="600">Vite • Edge &amp; Cloud Hosting</text>
+      <text x="14" y="132" fill="#8b949e" font-size="10">Optimized bundles &amp; high availability</text>
 
       <!-- Telemetry -->
       <rect y="156" width="227" height="130" rx="8" fill="#0d1117" stroke="#21262d"/>

@@ -1,7 +1,7 @@
 # Design Direction: Vicky Mosafan GitHub Ecosystem
 
 ## 1. Identity & Visual Language
-- **Brand Identity**: M. Vicky Mosafan (Fullstack Developer & Prompt Engineer specializing in AI Augmented Engineering).
+- **Brand Identity**: M. Vicky Mosafan (Full-Stack Developer & Prompt Engineer | AI-Augmented Engineer).
 - **Core Narrative**: Leveraging AI across the entire software development lifecycle to improve speed, quality, and decision-making while upholding rigorous engineering principles (SOLID, DRY, KISS, modularity).
 - **Visual Mood**: Cyber Obsidian & Tokyo Night engineering aesthetic. High contrast, technical depth, crisp typography, and zero generic AI slop.
 
