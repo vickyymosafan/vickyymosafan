@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 Chapter 01: The Paradigm
+## Chapter 01: The Paradigm
 
 > **"Engineering is not replaced by AI. It is amplified by it."**
 
@@ -29,7 +29,7 @@ My core discipline stays grounded in software craftsmanship:
 
 ---
 
-## 🏛️ Chapter 02: The Architectural Blueprint
+## Chapter 02: The Architectural Blueprint
 
 To achieve high velocity without technical debt, every build follows an AI-augmented engineering pipeline:
 
@@ -41,24 +41,24 @@ To achieve high velocity without technical debt, every build follows an AI-augme
 
 ---
 
-## ⚡ Chapter 03: The Artifacts (Flagship Systems)
+## Chapter 03: The Artifacts (Flagship Systems)
 
 Here is how this methodology translates into real, high-impact production applications with live telemetry:
 
-### 🏛️ Civic & Institutional Platforms
+### Civic & Institutional Platforms
 
 #### 1. [system-pemerintahan](https://github.com/vickyymosafan/system-pemerintahan)
 
 <table border="0">
 <tr>
-<td width="48%" valign="top">
+<td width="48%" align="center" valign="middle">
 
 <a href="https://github.com/vickyymosafan/system-pemerintahan">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=system-pemerintahan&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&icon_color=9ece6a&bg_color=1a1b27" alt="system-pemerintahan repo" />
 </a>
 
 </td>
-<td width="52%" valign="top">
+<td width="52%" valign="middle">
 
 * **The Challenge**: Managing complex civic document workflows and public government announcements with high security and reliability.
 * **Engineering**: Monolithic yet decoupled architecture utilizing Laravel with Inertia.js and React TypeScript for seamless single-page application performance without API boilerplate.
@@ -71,20 +71,20 @@ Here is how this methodology translates into real, high-impact production applic
 
 ---
 
-### 🧠 Retrieval-Augmented Generation (RAG) & Intelligent Agents
+### Retrieval-Augmented Generation (RAG) & Intelligent Agents
 
 #### 2. [FullStack_ai-smartchat](https://github.com/vickyymosafan/FullStack_ai-smartchat)
 
 <table border="0">
 <tr>
-<td width="48%" valign="top">
+<td width="48%" align="center" valign="middle">
 
 <a href="https://github.com/vickyymosafan/FullStack_ai-smartchat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=FullStack_ai-smartchat&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&icon_color=9ece6a&bg_color=1a1b27" alt="FullStack_ai-smartchat repo" />
 </a>
 
 </td>
-<td width="52%" valign="top">
+<td width="52%" valign="middle">
 
 * **The Challenge**: Delivering instant, accurate university intelligence for Universitas Muhammadiyah Jember.
 * **Engineering**: Retrieval-Augmented Generation (RAG) coupled with Supabase Vector, voice speech recognition, and an installable PWA for campus mobile access.
@@ -101,14 +101,14 @@ Here is how this methodology translates into real, high-impact production applic
 
 <table border="0">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
 <a href="https://github.com/vickyymosafan/FE_Beyond-RAG-Artificial-Super-Intelligence">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=FE_Beyond-RAG-Artificial-Super-Intelligence&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&icon_color=9ece6a&bg_color=1a1b27" alt="FE_Beyond-RAG repo" />
 </a>
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
 <a href="https://github.com/vickyymosafan/BE_Beyond-RAG-Artificial-Super-Intelligence">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=BE_Beyond-RAG-Artificial-Super-Intelligence&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&icon_color=9ece6a&bg_color=1a1b27" alt="BE_Beyond-RAG repo" />
@@ -125,20 +125,20 @@ Here is how this methodology translates into real, high-impact production applic
 
 ---
 
-### 📈 Intelligent Financial & Client-Side Systems
+### Intelligent Financial & Client-Side Systems
 
 #### 4. [auto-analysis-market](https://github.com/vickyymosafan/auto-analysis-market)
 
 <table border="0">
 <tr>
-<td width="48%" valign="top">
+<td width="48%" align="center" valign="middle">
 
 <a href="https://github.com/vickyymosafan/auto-analysis-market">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=auto-analysis-market&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&icon_color=9ece6a&bg_color=1a1b27" alt="auto-analysis-market repo" />
 </a>
 
 </td>
-<td width="52%" valign="top">
+<td width="52%" valign="middle">
 
 * **The Challenge**: Eliminating latency and emotional bias in technical market chart analysis.
 * **Engineering**: Multimodal vision reasoning using Google Gemini API to scan candlestick charts, calculate technical indicators, and produce structured trade setups.
@@ -155,14 +155,14 @@ Here is how this methodology translates into real, high-impact production applic
 
 <table border="0">
 <tr>
-<td width="48%" valign="top">
+<td width="48%" align="center" valign="middle">
 
 <a href="https://github.com/vickyymosafan/instagram-unfollow-checker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=instagram-unfollow-checker&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&icon_color=9ece6a&bg_color=1a1b27" alt="instagram-unfollow-checker repo" />
 </a>
 
 </td>
-<td width="52%" valign="top">
+<td width="52%" valign="middle">
 
 * **The Challenge**: Analyzing social graphs without compromising user credentials or privacy.
 * **Engineering**: 100% client-side stream parsing of data packages entirely inside browser memory, ensuring zero data leaves the client.
@@ -179,14 +179,14 @@ Here is how this methodology translates into real, high-impact production applic
 
 <table border="0">
 <tr>
-<td width="48%" valign="top">
+<td width="48%" align="center" valign="middle">
 
 <a href="https://github.com/vickyymosafan/imageconverter">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=imageconverter&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&icon_color=9ece6a&bg_color=1a1b27" alt="imageconverter repo" />
 </a>
 
 </td>
-<td width="52%" valign="top">
+<td width="52%" valign="middle">
 
 * **The Challenge**: Fast, lossless image batch conversion without third-party server upload limits.
 * **Engineering**: In-browser Canvas API processing supporting WebP, PNG, JPEG, GIF, and BMP with real-time compression preview.
@@ -199,20 +199,20 @@ Here is how this methodology translates into real, high-impact production applic
 
 ---
 
-### 🏥 Healthcare & Core Backend Services
+### Healthcare & Core Backend Services
 
 #### 7. [fe_posyandu-digital](https://github.com/vickyymosafan/fe_posyandu-digital) & [be_posyandu-digital](https://github.com/vickyymosafan/be_posyandu-digital)
 
 <table border="0">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
 <a href="https://github.com/vickyymosafan/fe_posyandu-digital">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=fe_posyandu-digital&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&icon_color=9ece6a&bg_color=1a1b27" alt="fe_posyandu-digital repo" />
 </a>
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
 <a href="https://github.com/vickyymosafan/be_posyandu-digital">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vickyymosafan&repo=be_posyandu-digital&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6&icon_color=9ece6a&bg_color=1a1b27" alt="be_posyandu-digital repo" />
@@ -229,7 +229,7 @@ Here is how this methodology translates into real, high-impact production applic
 
 ---
 
-## 🛠️ Chapter 04: The Technical Arsenal
+## Chapter 04: The Technical Arsenal
 
 <div align="center">
 
@@ -245,16 +245,16 @@ Organized across key architectural domains:
 
 | Architectural Domain | Core Technologies & Tooling |
 | :--- | :--- |
-| **💻 Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **🎨 Frontend Ecosystem** | ![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js 15](https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white) |
-| **⚙️ Backend & Microservices** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-70a5fd?style=flat-square&logo=fastapi&logoColor=white) |
-| **🗄️ Databases & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase Vector](https://img.shields.io/badge/Supabase%20Vector-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white) |
-| **🤖 AI Augmented Tooling** | ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Open Code](https://img.shields.io/badge/Open%20Code-1a1b27?style=flat-square&logo=opencode&logoColor=70a5fd) ![Deterministic PRDs](https://img.shields.io/badge/Deterministic%20PRDs-ff9e64?style=flat-square&logo=markdown&logoColor=white) |
-| **🚀 DevOps & Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend Ecosystem** | ![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js 15](https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white) |
+| **Backend & Microservices** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-70a5fd?style=flat-square&logo=fastapi&logoColor=white) |
+| **Databases & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase Vector](https://img.shields.io/badge/Supabase%20Vector-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **AI Augmented Tooling** | ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Open Code](https://img.shields.io/badge/Open%20Code-1a1b27?style=flat-square&logo=opencode&logoColor=70a5fd) ![Deterministic PRDs](https://img.shields.io/badge/Deterministic%20PRDs-ff9e64?style=flat-square&logo=markdown&logoColor=white) |
+| **DevOps & Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 
 ---
 
-## 📊 Chapter 05: Continuous Telemetry & Live Activity
+## Chapter 05: Continuous Telemetry & Live Activity
 
 <div align="center">
 
