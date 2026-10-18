@@ -4,7 +4,7 @@
 ### Full-Stack Developer & Prompt Engineer | AI-Augmented Engineer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vickyymosafan&label=Profile%20Views&color=70a5fd&style=flat-square)](https://github.com/vickyymosafan)
-[![Specialization](https://img.shields.io/badge/Specialization-AI--Augmented%20Engineer-9ece6a?style=flat-square)](https://github.com/vickyymosafan)
+[![Specialization](https://img.shields.io/badge/Specialization-AI--Augmented%20Engineering-9ece6a?style=flat-square)](https://github.com/vickyymosafan)
 [![Ecosystem](https://img.shields.io/badge/Stack-TypeScript%20%7C%20React%20%7C%20Node%20%7C%20Laravel-7aa2f7?style=flat-square)](https://github.com/vickyymosafan)
 [![Location](https://img.shields.io/badge/Location-Surabaya%2C%20ID-ff9e64?style=flat-square)](https://github.com/vickyymosafan)
 [![Email Contact](https://img.shields.io/badge/Contact-Email-70a5fd?style=flat-square&logo=gmail&logoColor=white)](mailto:vickymosafan@gmail.com)
