@@ -87,9 +87,9 @@ Here is how this methodology translates into real, high-impact production applic
 <td width="52%" valign="middle">
 
 * **The Challenge**: Delivering instant, accurate university intelligence for Universitas Muhammadiyah Jember.
-* **Engineering**: Retrieval-Augmented Generation (RAG) coupled with Supabase Vector, voice speech recognition, and an installable PWA for campus mobile access.
-* **Stack**: ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase Vector](https://img.shields.io/badge/Supabase%20Vector-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-* **Key Features**: Real-time RAG context retrieval, Web Speech API integration, offline-capable PWA.
+* **Engineering**: Retrieval-Augmented Generation (RAG) orchestrating automated n8n reasoning workflows, Supabase Vector similarity search, voice speech recognition, and an installable PWA for campus mobile access.
+* **Stack**: ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![n8n](https://img.shields.io/badge/n8n%20Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Supabase Vector](https://img.shields.io/badge/Supabase%20Vector-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+* **Key Features**: Automated n8n reasoning workflows, real-time RAG context retrieval, Web Speech API integration, offline-capable PWA.
 
 </td>
 </tr>
@@ -119,8 +119,8 @@ Here is how this methodology translates into real, high-impact production applic
 </table>
 
 * **The Challenge**: Delivering high-accuracy institutional intelligence with multi-turn conversational context, vector similarity retrieval, in-memory document parsing (PDF/DOCX), and ultra-low latency edge execution.
-* **Engineering**: Decoupled fullstack RAG pipeline pairing a Next.js App Router PWA frontend with a Cloudflare Workers backend powered by Hono, Neon Serverless PostgreSQL, automated n8n reasoning webhooks, and Zod runtime validation.
-* **Stack**: ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Neon](https://img.shields.io/badge/Neon%20Postgres-00E599?style=flat-square&logo=postgresql&logoColor=white) ![n8n](https://img.shields.io/badge/n8n%20Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+* **Engineering**: Decoupled fullstack RAG pipeline pairing a Next.js App Router PWA frontend with a Cloudflare Workers backend powered by Hono, Neon Serverless PostgreSQL, and Zod runtime validation.
+* **Stack**: ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Neon](https://img.shields.io/badge/Neon%20Postgres-00E599?style=flat-square&logo=postgresql&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 * **Key Features**: Edge serverless RAG API, in-memory document chunking, multi-turn vector context, voice speech recognition, and cross-platform installable PWA.
 
 ---
